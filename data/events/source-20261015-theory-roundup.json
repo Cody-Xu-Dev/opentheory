@@ -1,0 +1,17 @@
+{
+  "id": "source-20261015-theory-roundup",
+  "date": "2026-10-15",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "huangmao",
+    "dashui",
+    "dashui-sleep",
+    "xiaoshui"
+  ],
+  "source_ids": [
+    "sina-cindy-theories-20261010"
+  ],
+  "summary": "新发现10月10日个人盘点，作为多个网络说法的二次资料；不是作者当天发布或统一定义。",
+  "run_id": "daily-20261015-093317"
+}

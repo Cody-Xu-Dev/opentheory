@@ -1,0 +1,13 @@
+{
+  "id": "source-20261015-dashui",
+  "date": "2026-10-15",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui"
+  ],
+  "source_ids": [
+    "jiemian-dashui-20261014"
+  ],
+  "summary": "补充10月14日商业评论：区分大水热度、重复接水与瓶装水长期需求，不作为行业数据或健康建议背书。",
+  "run_id": "daily-20261015-093317"
+}

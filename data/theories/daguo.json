@@ -1,0 +1,24 @@
+{
+  "id": "daguo",
+  "name": "大锅理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "猪总监的个人盘点将其描述为强调自己做饭的日常生活标签；尚未核实首创者、最早定义和独立传播范围。",
+  "source_ids": [
+    "sina-zhuzongjian-theories-20261014"
+  ],
+  "claims": [
+    {
+      "text": "猪总监的个人盘点将大锅理论解释为强调自己做饭的日常生活标签。",
+      "source_ids": [
+        "sina-zhuzongjian-theories-20261014"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找名称最早使用者的公开原文、定义与发布时间。",
+    "确认是独立话语、已有主题别名还是个人盘点中的短期玩梗。"
+  ],
+  "updated_at": "2026-10-17"
+}

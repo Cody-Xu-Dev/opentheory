@@ -1,0 +1,13 @@
+{
+  "id": "candidate-20261019-bushuohua",
+  "date": "2026-10-19",
+  "type": "candidate_found",
+  "theory_ids": [
+    "bushuohua"
+  ],
+  "source_ids": [
+    "3dm-boji-commentary-20260927"
+  ],
+  "summary": "发现不说话理论的二次评论命名，先列candidate，尚未确认原作者或独立定义。",
+  "run_id": "daily-20261019-090111"
+}

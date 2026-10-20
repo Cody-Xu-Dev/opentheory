@@ -13,7 +13,15 @@
     "huxiu-xiexiu-20261013",
     "2aran-dashui-20261010",
     "sohu-dashui-20261009",
-    "theoryera-index"
+    "theoryera-index",
+    "sina-cindy-theories-20261010",
+    "jiemian-dashui-20261014",
+    "36kr-gymsquare-20261015",
+    "xmnn-dashui-20261013",
+    "sina-zhuzongjian-theories-20261014",
+    "wyzxwk-dashui-20261014",
+    "chongbuluo-roundup-20261018",
+    "sina-help-ranking-20261012"
   ],
   "claims": [
     {
@@ -36,11 +44,32 @@
         "sohu-dashui-20261009"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "山农下山将大水热度与瓶装水长期需求区分，认为自带杯或重复接水可能削弱热梗向持续品牌购买的转化；这是商业评论的分析。",
+      "source_ids": [
+        "jiemian-dashui-20261014"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "厦门日报报道借医生采访区分大瓶水提醒全天补水与短时间猛灌，说明网络口号在传播中可能被不同方式理解。",
+      "source_ids": [
+        "xmnn-dashui-20261013"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "巴亦巴从阶层与社会结构角度评论大水话语，认为个人节制与控制感不能直接替代对劳动和生活条件的讨论；这一作者观点与已有消费自主、商业分析等解释并列保留。",
+      "source_ids": [
+        "wyzxwk-dashui-20261014"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "寻找原作者或推广账号的完整公开内容与发布时间。",
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。"
   ],
-  "updated_at": "2026-10-14"
+  "updated_at": "2026-10-18"
 }

@@ -1,0 +1,206 @@
+{
+  "id": "daily-20261015-093317",
+  "date": "2026-10-15",
+  "started_at": "2026-10-15T09:33:17+08:00",
+  "completed_at": "2026-10-15T01:37:56Z",
+  "status": "partial",
+  "coverage_from": "2026-10-07T09:00:32+08:00",
+  "coverage_to": "2026-10-15T09:33:17+08:00",
+  "checks": [
+    {
+      "query": "\"薄肌理论\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"邵艾伦\" \"薄肌\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "site:github.com \"薄肌\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"大水理论\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"大水理论\" \"长安二球\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "site:github.com \"大水理论\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"黄毛理论\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"黄毛理论\" \"徐可\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"黄毛理论\" \"孙宇晨\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"孙学\" \"孙宇晨\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"孙宇晨\" \"邵艾伦\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "site:github.com \"孙学\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"薄肌\" \"新理论\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"大水\" \"理论\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"互联网\" \"理论\" \"版本答案\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"大睡理论\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "\"小水理论\"",
+      "outcome": "ok",
+      "note": "已执行 recency=8 的公开搜索以补查10月14日 partial 窗口；搜索仍可能返回旧资料或无关结果，只按核读正文的作者和日期归档。搜索无结果不等于全网无更新。"
+    },
+    {
+      "query": "https://2aran.com/articles/research/topics/big-water-theory",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://www.bidclub.ai/e/alan-shao-justin-sun-ai-opportunities-20261009",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://www.bilibili.com/video/BV1Bw4S6uE1V/",
+      "outcome": "failed",
+      "note": "本轮直接打开未取得可用正文；保留历史来源快照，不据搜索片段判断观点修订。"
+    },
+    {
+      "query": "https://lnw-vould.github.io/build-beyond/essays/freedom-before-wealth/",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://www.bilibili.com/video/BV1a9p36LEKD/",
+      "outcome": "failed",
+      "note": "本轮直接打开未取得可用正文；保留历史来源快照，不据搜索片段判断观点修订。"
+    },
+    {
+      "query": "https://m.dzplus.dzng.com/share/general/0/NEWS3732476KCTNMIRNUXMLB",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://github.com/jamesxxx-ai/sun-huang-bo-yi/blob/main/references/research/%E4%B8%93%E9%A2%98/03-%E9%BB%84%E6%AF%9B.md",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://www.huxiu.com/article/4896970.html",
+      "outcome": "failed",
+      "note": "本轮直接打开未取得可用正文；保留历史来源快照，不据搜索片段判断观点修订。"
+    },
+    {
+      "query": "https://github.com/XiaoSiKe/shao-alan-operating-system",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://www.sohu.com/a/1085708187_121124835",
+      "outcome": "failed",
+      "note": "本轮直接打开未取得可用正文；保留历史来源快照，不据搜索片段判断观点修订。"
+    },
+    {
+      "query": "https://github.com/LeoLee0812/sunyuchen-alan-interview",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://github.com/jamesxxx-ai/sun-huang-bo-yi",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://github.com/swaylq/sunge-skill",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://github.com/wuxie888/sunxue-skill",
+      "outcome": "ok",
+      "note": "已重新打开页面并检查相关正文或项目说明；未确认相对既有摘要有实质修订，不因检查日期变化新建来源版本。"
+    },
+    {
+      "query": "https://theoryera.com/",
+      "outcome": "failed",
+      "note": "本轮直接打开未取得可用正文；保留历史来源快照，不据搜索片段判断观点修订。"
+    },
+    {
+      "query": "https://www.yzwb.net/news/yysp/202610/t20261012_401684.html",
+      "outcome": "failed",
+      "note": "本轮直接打开未取得可用正文；保留历史来源快照，不据搜索片段判断观点修订。"
+    },
+    {
+      "query": "https://www.huxiu.com/article/4897592.html",
+      "outcome": "failed",
+      "note": "发现线索后直接打开失败或无可用正文，不以搜索片段支持实质观点。"
+    },
+    {
+      "query": "https://qimingyaoshu.com/",
+      "outcome": "failed",
+      "note": "发现线索后直接打开失败或无可用正文，不以搜索片段支持实质观点。"
+    },
+    {
+      "query": "https://www.douyin.com/video/7694181915083592010",
+      "outcome": "failed",
+      "note": "发现线索后直接打开失败或无可用正文，不以搜索片段支持实质观点。"
+    },
+    {
+      "query": "GitHub publication connector",
+      "outcome": "failed",
+      "note": "本次可用工具目录没有 GitHub connector 的 fetch/create_tree/create_commit/update_ref；公开 API 另遇限流。使用 git ls-remote 和公开提交 ZIP 只读核对 main 与62个本地文件一致。未执行远端写入，待连接恢复后以最新 main 整合发布。"
+    }
+  ],
+  "failures": [
+    "多个既有来源本轮正文仍不可用，原始视频未核对；未建立或推进 complete 覆盖水位。",
+    "新发现的虎嗅文章、齐民要术站点及抖音视频未取得可用正文，仅在检索失败日志保存线索。",
+    "GitHub connector 本次未暴露，无法按 create_tree/create_commit/update_ref 原子发布；本次内容只保存在本地，远端尚未更新。"
+  ],
+  "event_ids": [
+    "source-20261015-dashui",
+    "source-20261015-theory-roundup",
+    "candidate-20261015-dacai"
+  ]
+}

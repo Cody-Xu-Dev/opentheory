@@ -1,0 +1,14 @@
+{
+  "id": "source-20261019-interview-preview",
+  "date": "2026-10-19",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "sunxue"
+  ],
+  "source_ids": [
+    "bili-interview-preview-20261009"
+  ],
+  "summary": "找到作者访谈预告页，仅记录元数据，预告题名、简介与其他来源的日期差异待核实，不冒充已核读视频。",
+  "run_id": "daily-20261019-090111"
+}

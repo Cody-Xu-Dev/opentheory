@@ -1,0 +1,13 @@
+{
+  "id": "source-20261016-xmnn",
+  "date": "2026-10-16",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui"
+  ],
+  "source_ids": [
+    "xmnn-dashui-20261013"
+  ],
+  "summary": "补充10月13日厦门日报报道，记录全天补水与短时猛灌的传播差异；旧报道新发现，不算当日观点发布。",
+  "run_id": "daily-20261016-090240"
+}

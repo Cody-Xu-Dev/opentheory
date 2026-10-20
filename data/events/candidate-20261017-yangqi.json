@@ -1,0 +1,13 @@
+{
+  "id": "candidate-20261017-yangqi",
+  "date": "2026-10-17",
+  "type": "candidate_found",
+  "theory_ids": [
+    "yangqi"
+  ],
+  "source_ids": [
+    "sina-zhuzongjian-theories-20261014"
+  ],
+  "summary": "发现氧气理论的单一作者盘点线索，先列candidate，起源与独立传播待核实。",
+  "run_id": "daily-20261017-090023"
+}

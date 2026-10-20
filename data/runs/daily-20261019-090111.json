@@ -1,0 +1,271 @@
+{
+  "id": "daily-20261019-090111",
+  "date": "2026-10-19",
+  "started_at": "2026-10-19T09:01:11+08:00",
+  "completed_at": "2026-10-19T01:03:26+00:00",
+  "status": "partial",
+  "coverage_from": "2026-09-18T08:57:17+08:00",
+  "coverage_to": "2026-10-19T09:01:11+08:00",
+  "checks": [
+    {
+      "query": "\"薄肌理论\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"邵艾伦\" \"薄肌\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "site:github.com \"薄肌\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"大水理论\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"大水理论\" \"长安二球\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "site:github.com \"大水理论\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"黄毛理论\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"黄毛理论\" \"徐可\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"黄毛理论\" \"孙宇晨\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"孙学\" \"孙宇晨\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"孙宇晨\" \"邵艾伦\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "site:github.com \"孙学\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"薄肌\" \"新理论\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"大水\" \"理论\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"互联网\" \"理论\" \"版本答案\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"大睡理论\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "\"小水理论\"",
+      "outcome": "ok",
+      "note": "已执行联网检索，recency=31，重查9月18日起尚无complete水位的窗口，含昨日周日partial回溯；索引日期不作发布日期。"
+    },
+    {
+      "query": "既有来源修订检查：https://2aran.com/articles/research/topics/big-water-theory",
+      "outcome": "failed",
+      "note": "读取超时（400），未能核对正文修订。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.36kr.com/p/4025886733291653",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.bidclub.ai/e/alan-shao-justin-sun-ai-opportunities-20261009",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.bilibili.com/video/BV1Bw4S6uE1V/",
+      "outcome": "failed",
+      "note": "原视频正文访问失败。"
+    },
+    {
+      "query": "既有来源修订检查：https://lnw-vould.github.io/build-beyond/essays/freedom-before-wealth/",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.chongbuluo.com/forum.php?mod=viewthread&tid=25262",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.bilibili.com/video/BV1a9p36LEKD/",
+      "outcome": "failed",
+      "note": "原视频正文访问失败（412）。"
+    },
+    {
+      "query": "既有来源修订检查：https://m.dzplus.dzng.com/share/general/0/NEWS3732476KCTNMIRNUXMLB",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://github.com/jamesxxx-ai/sun-huang-bo-yi/blob/main/references/research/%E4%B8%93%E9%A2%98/03-%E9%BB%84%E6%AF%9B.md",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.huxiu.com/article/4896970.html",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.jiemian.com/article/15187255.html",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://lianboji.com/guides/lean-muscle-theory/",
+      "outcome": "failed",
+      "note": "本次页面读取失败，不代表此前已核读内容失效。"
+    },
+    {
+      "query": "既有来源修订检查：https://github.com/XiaoSiKe/shao-alan-operating-system",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.sina.cn/news/detail/5352485305716955.html",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.sina.cn/news/detail/5353257129215502.html",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.sina.cn/news/detail/5353972080838666.html",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.sohu.com/a/1085708187_121124835",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://github.com/LeoLee0812/sunyuchen-alan-interview",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://github.com/jamesxxx-ai/sun-huang-bo-yi",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://github.com/swaylq/sunge-skill",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://github.com/wuxie888/sunxue-skill",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://theoryera.com/",
+      "outcome": "failed",
+      "note": "仍只返回占位页面，无法核对实质正文。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.wyzxwk.com/Article/shiping/2026/10/535750.html",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://news.xmnn.cn/xmxw/202610/t20261013_455497.html",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "既有来源修订检查：https://www.yzwb.net/news/yysp/202610/t20261012_401684.html",
+      "outcome": "ok",
+      "note": "页面可访问；复查可见内容未确认改变既有摘要的实质修订，不仅因检查时间变化制造新版本。"
+    },
+    {
+      "query": "新增来源正文：https://www.3dmgame.com/original/3746494.html",
+      "outcome": "ok",
+      "note": "核读正文、作者和9月27日日期，仅以批评性评论归档。"
+    },
+    {
+      "query": "作者预告元数据：https://www.bilibili.com/list/4029133?bvid=BV176pp69Eom&oid=117408148817539",
+      "outcome": "ok",
+      "note": "题名、作者、预告简介及上传时间可读；视频正文未取得，按metadata_only记录。"
+    },
+    {
+      "query": "补充研究导航：https://neybra.tech/sence/sun-alan-interview-guide/",
+      "outcome": "ok",
+      "note": "核读研究导航与方法说明，可见页面的逐章正文未展开；不从搜索片段抽取新的访谈观点，未新增重复转录记录。"
+    },
+    {
+      "query": "新理论合集：https://qimingyaoshu.com/",
+      "outcome": "failed",
+      "note": "首页及收录说明可读，但理论词条未加载，不能核对33条衍生理论的正文或据片段新增条目。"
+    },
+    {
+      "query": "补充原帖：https://weibo.com/2/detail/5353909876953804",
+      "outcome": "failed",
+      "note": "读取失败（Cache miss），不将搜索片段当正文。"
+    },
+    {
+      "query": "新发现页面：https://thinmuscle.club/",
+      "outcome": "failed",
+      "note": "页面无法由当前读取工具访问，不据片段概括。"
+    },
+    {
+      "query": "新发现页面：https://www.xn--glr604k.com/home/webapp/article/id/75221",
+      "outcome": "failed",
+      "note": "页面无法由当前读取工具访问，不从名称列表推断新理论定义。"
+    },
+    {
+      "query": "GitHub connector读取及原子发布",
+      "outcome": "failed",
+      "note": "当前仍无GitHub connector工具，已用公开只读Git与ZIP核验main=faa0771b4f9059c2e5a68d39f57668c6df5703c0，五份规则一致。本地10月15—19日草稿保留，未远端写入。"
+    }
+  ],
+  "failures": [
+    "两个既有视频、2aran及Awesome Boji页面访问失败；TheoryEra仅占位，既有来源修订检查未完整。",
+    "补充微博、两个新发现页面及合集词条正文不可读，原作者预告只取得元数据；未用搜索片段填补正文。",
+    "GitHub connector连续五次不可用，10月15—19日累计草稿均未发布；本次partial不推进完整覆盖水位。"
+  ],
+  "event_ids": [
+    "source-20261019-boji-critique",
+    "source-20261019-interview-preview",
+    "candidate-20261019-bushuohua"
+  ]
+}

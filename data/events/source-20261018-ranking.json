@@ -1,0 +1,19 @@
+{
+  "id": "source-20261018-ranking",
+  "date": "2026-10-18",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "dashui",
+    "dashui-sleep",
+    "huangmao",
+    "sunxue",
+    "dacai",
+    "xiaoshui"
+  ],
+  "source_ids": [
+    "sina-help-ranking-20261012"
+  ],
+  "summary": "补录10月12日的个人等级盘点，主观排名不等于证据评级；大氧、大站仅见名称，暂不推断其定义或与氧气的别名关系。",
+  "run_id": "daily-20261018-085717"
+}

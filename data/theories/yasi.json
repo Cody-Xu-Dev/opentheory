@@ -1,0 +1,24 @@
+{
+  "id": "yasi",
+  "name": "雅思理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "heIp的个人盘点用雅思理论指代外语学习、认识外部世界与职业机会的组合表达；没有验证其收益或首创者。",
+  "source_ids": [
+    "sina-help-ranking-20261012"
+  ],
+  "claims": [
+    {
+      "text": "heIp的个人盘点用雅思理论指代外语学习、认识外部世界与职业机会的组合表达；没有验证其收益或首创者。",
+      "source_ids": [
+        "sina-help-ranking-20261012"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找最早公开原文、完整定义和可靠发布时间，不将个人盘点当作首创证明。",
+    "核实是否有独立传播及稳定含义，并区分同名概念、已有主题别名与短期玩梗。"
+  ],
+  "updated_at": "2026-10-18"
+}

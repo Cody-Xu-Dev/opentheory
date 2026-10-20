@@ -1,0 +1,24 @@
+{
+  "id": "bushuohua",
+  "name": "不说话理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "小免惠子的评论将一组以不与不同生活选择者交流为句式的口号称为不说话理论；尚未核实原帖中的命名、完整语境及首发时间。",
+  "source_ids": [
+    "3dm-boji-commentary-20260927"
+  ],
+  "claims": [
+    {
+      "text": "3DM评论用不说话理论概括文中转述的拒绝交流口号；这是二次作者的标签，不能直接认定为邵艾伦正式提出的独立理论。",
+      "source_ids": [
+        "3dm-boji-commentary-20260927"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "核读相关原帖或原视频，确认名称由谁使用以及使用时间。",
+    "区分讽刺、玩梗、二次评论命名与具有稳定定义的独立话语。"
+  ],
+  "updated_at": "2026-10-19"
+}

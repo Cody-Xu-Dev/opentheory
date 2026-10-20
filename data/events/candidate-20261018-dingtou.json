@@ -1,0 +1,13 @@
+{
+  "id": "candidate-20261018-dingtou",
+  "date": "2026-10-18",
+  "type": "candidate_found",
+  "theory_ids": [
+    "dingtou"
+  ],
+  "source_ids": [
+    "sina-help-ranking-20261012"
+  ],
+  "summary": "发现定投理论在个人盘点中的用法，先列candidate，起源、定义与传播范围仍待核实。",
+  "run_id": "daily-20261018-085717"
+}

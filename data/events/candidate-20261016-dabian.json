@@ -1,0 +1,13 @@
+{
+  "id": "candidate-20261016-dabian",
+  "date": "2026-10-16",
+  "type": "candidate_found",
+  "theory_ids": [
+    "dabian"
+  ],
+  "source_ids": [
+    "36kr-gymsquare-20261015"
+  ],
+  "summary": "发现大便理论的可核读媒体命名线索，先列 candidate；首创者和完整主张仍待核实。",
+  "run_id": "daily-20261016-090240"
+}

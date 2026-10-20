@@ -6,7 +6,12 @@
   "summary": "与大水、薄肌并列的睡眠话语候选，原作者与完整规则尚未确认。",
   "source_ids": [
     "dzplus-dashui-20261008",
-    "sohu-dashui-20261009"
+    "sohu-dashui-20261009",
+    "sina-cindy-theories-20261010",
+    "36kr-gymsquare-20261015",
+    "sina-zhuzongjian-theories-20261014",
+    "chongbuluo-roundup-20261018",
+    "sina-help-ranking-20261012"
   ],
   "claims": [
     {
@@ -22,5 +27,5 @@
     "核读原作者的定义和发布时间。",
     "确认是独立话语、已有主题别名还是短期玩梗。"
   ],
-  "updated_at": "2026-10-14"
+  "updated_at": "2026-10-18"
 }

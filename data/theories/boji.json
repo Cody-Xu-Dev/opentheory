@@ -14,7 +14,15 @@
     "sun-alan-interview",
     "huxiu-xiexiu-20261013",
     "buildbeyond-sunxue-20261009",
-    "bidclub-sun-alan-20261009"
+    "bidclub-sun-alan-20261009",
+    "sina-cindy-theories-20261010",
+    "36kr-gymsquare-20261015",
+    "sina-zhuzongjian-theories-20261014",
+    "lianboji-theory-20261018",
+    "chongbuluo-roundup-20261018",
+    "sina-help-ranking-20261012",
+    "3dm-boji-commentary-20260927",
+    "bili-interview-preview-20261009"
   ],
   "claims": [
     {
@@ -37,11 +45,32 @@
         "huxiu-xiexiu-20261013"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "冀婷的健身媒体评论认为，喝大水与练薄肌经常在社交传播中并列，但单纯更换水瓶不能替代持续训练和生活习惯；这是评论作者的解释。",
+      "source_ids": [
+        "36kr-gymsquare-20261015"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "Awesome Boji 编辑将薄肌的体型描述、生活观点和训练证据分开讨论，提醒不能用个人体验或流行程度直接证明普遍训练效果；属于编辑解读。",
+      "source_ids": [
+        "lianboji-theory-20261018"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "小免惠子的评论从网络造梗和个人IP传播角度质疑薄肌的高频复读，区分围观娱乐与认真信奉的语境；这是评论作者的解释，不能据此认定他人的真实动机。",
+      "source_ids": [
+        "3dm-boji-commentary-20260927"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-10-14"
+  "updated_at": "2026-10-19"
 }

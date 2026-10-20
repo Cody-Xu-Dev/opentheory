@@ -1,0 +1,14 @@
+{
+  "id": "candidate-20261015-dacai",
+  "date": "2026-10-15",
+  "type": "candidate_found",
+  "theory_ids": [
+    "dacai"
+  ],
+  "source_ids": [
+    "sina-cindy-theories-20261010",
+    "sohu-dashui-20261009"
+  ],
+  "summary": "登记大菜理论为候选；现有个人盘点和旧评论中的命名不足以确定首创者或提升为 tracked。",
+  "run_id": "daily-20261015-093317"
+}

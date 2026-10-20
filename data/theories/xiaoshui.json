@@ -5,7 +5,9 @@
   "status": "candidate",
   "summary": "二次评论中与大水对照的饮水话语，具体作者、原始定义和传播时间线待核读。",
   "source_ids": [
-    "sohu-dashui-20261009"
+    "sohu-dashui-20261009",
+    "sina-cindy-theories-20261010",
+    "sina-help-ranking-20261012"
   ],
   "claims": [
     {
@@ -20,5 +22,5 @@
     "核读原作者的定义和发布时间。",
     "确认是独立话语、已有主题别名还是短期玩梗。"
   ],
-  "updated_at": "2026-10-14"
+  "updated_at": "2026-10-18"
 }

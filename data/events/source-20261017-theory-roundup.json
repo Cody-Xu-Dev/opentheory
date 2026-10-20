@@ -1,0 +1,18 @@
+{
+  "id": "source-20261017-theory-roundup",
+  "date": "2026-10-17",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "dashui",
+    "huangmao",
+    "sunxue",
+    "dashui-sleep",
+    "dacai"
+  ],
+  "source_ids": [
+    "sina-zhuzongjian-theories-20261014"
+  ],
+  "summary": "核读10月14日的个人理论盘点，补充既有标签的传播材料；不认定该作者首创或所列健康口号有效。",
+  "run_id": "daily-20261017-090023"
+}

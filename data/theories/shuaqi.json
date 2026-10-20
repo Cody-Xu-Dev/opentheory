@@ -1,0 +1,24 @@
+{
+  "id": "shuaqi",
+  "name": "耍起理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "jounhi主帖将耍起作为面对低谷时的玩梗兜底表达；仅记录该作者语境，不外推其具体含义或行动方式。",
+  "source_ids": [
+    "chongbuluo-roundup-20261018"
+  ],
+  "claims": [
+    {
+      "text": "jounhi主帖将耍起作为面对低谷时的玩梗兜底表达；仅记录该作者语境，不外推其具体含义或行动方式。",
+      "source_ids": [
+        "chongbuluo-roundup-20261018"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找最早公开原文、完整定义和可靠发布时间，不将个人盘点当作首创证明。",
+    "核实是否有独立传播及稳定含义，并区分同名概念、已有主题别名与短期玩梗。"
+  ],
+  "updated_at": "2026-10-18"
+}
