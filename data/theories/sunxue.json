@@ -16,7 +16,8 @@
     "bidclub-sun-alan-20261009",
     "sina-zhuzongjian-theories-20261014",
     "sina-help-ranking-20261012",
-    "bili-interview-preview-20261009"
+    "bili-interview-preview-20261009",
+    "mideasternm-sunxue-skill-20261021"
   ],
   "claims": [
     {
@@ -39,11 +40,18 @@
         "buildbeyond-sunxue-20261009"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "MideasternM的研究框架将强烈信任AI与个人判断、先调查与先行动等张力并列保留，并说明识别疑点不等于已证实嘉宾错误；这是整理者的审查视角。",
+      "source_ids": [
+        "mideasternm-sunxue-skill-20261021"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "补充孙宇晨本人公开原帖与作品来源。",
     "区分原作者自述、人物模仿 Skill、社区评论和后续理论组合。"
   ],
-  "updated_at": "2026-10-19"
+  "updated_at": "2026-10-21"
 }

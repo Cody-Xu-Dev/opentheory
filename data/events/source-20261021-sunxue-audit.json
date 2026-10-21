@@ -1,0 +1,15 @@
+{
+  "id": "source-20261021-sunxue-audit",
+  "date": "2026-10-21",
+  "type": "source_added",
+  "theory_ids": [
+    "sunxue",
+    "boji",
+    "huangmao"
+  ],
+  "source_ids": [
+    "mideasternm-sunxue-skill-20261021"
+  ],
+  "summary": "发现并核读新的独立访谈研究仓库，补充角色归属、转录边界与批评性审查线索；发布日期未知，不当作今日新发布理论。",
+  "run_id": "daily-20261021-085635"
+}

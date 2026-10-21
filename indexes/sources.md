@@ -156,6 +156,17 @@
 
 限制：页面只标注更新于2026年10月15日，首次发布日期未知；不把更新日当首发日。独立网站的编辑解读，不代表邵艾伦认可。原视频入口仍访问失败，不能据此视为已核读视频。
 
+## mideasternm-sunxue-skill-20261021
+
+[孙宇晨 Skill｜孙学·孙哥思维框架｜邵艾伦 Alan 四小时访谈](https://github.com/MideasternM/sun-yuchen-sunxue-alan-skill)
+
+作者：MideasternM · 类别：secondary · 核读：read
+发布时间：未知 · 首次发现：2026-10-21
+
+维护者将访谈材料组织为主题档案、章节索引与审查清单，强调区分嘉宾、主持人和整理者推论；批评性文件并列保留对AI的强烈信任与个人判断、先调查与先行动等张力，而不将其描述为已完成全片事实核验。
+
+限制：本次核读README、claim-audit及来源快照索引，未核对两份完整转录和原始音视频。主题数量与来源快照是维护者说明，不保证转录准确；独立整理，与访谈人物无官方关联。首次发布日期未知，记null，不将发现日当发布日期。
+
 ## shao-alan-os
 
 [邵艾伦操作系统（AI 薄肌版）](https://github.com/XiaoSiKe/shao-alan-operating-system)
