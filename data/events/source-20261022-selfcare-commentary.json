@@ -1,0 +1,16 @@
+{
+  "id": "source-20261022-selfcare-commentary",
+  "date": "2026-10-22",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui",
+    "dashui-sleep",
+    "dacai",
+    "dabei"
+  ],
+  "source_ids": [
+    "sina-shangguan-dashui-20261021"
+  ],
+  "summary": "补录10月21日的低成本自我关怀评论，为大杯候选补充大水杯称呼；不将纯过日子人与纯日子理论直接合并。",
+  "run_id": "daily-20261022-085646"
+}

@@ -1,11 +1,14 @@
 {
   "id": "dabei",
   "name": "大杯理论",
-  "aliases": [],
+  "aliases": [
+    "大水杯理论"
+  ],
   "status": "candidate",
   "summary": "二次评论中强调自带大容量杯接水的衍生话语，独立性和原始出处待核实。",
   "source_ids": [
-    "sohu-dashui-20261009"
+    "sohu-dashui-20261009",
+    "sina-shangguan-dashui-20261021"
   ],
   "claims": [
     {
@@ -14,11 +17,18 @@
         "sohu-dashui-20261009"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "林子璐的时评使用大水杯理论一名，描述用杯子接水、减少购买瓶装水的说法；与既有大杯候选的用法对应，仍不认定首创者。",
+      "source_ids": [
+        "sina-shangguan-dashui-20261021"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读原作者的定义和发布时间。",
     "确认是独立话语、已有主题别名还是短期玩梗。"
   ],
-  "updated_at": "2026-10-14"
+  "updated_at": "2026-10-22"
 }

@@ -21,7 +21,10 @@
     "sina-zhuzongjian-theories-20261014",
     "wyzxwk-dashui-20261014",
     "chongbuluo-roundup-20261018",
-    "sina-help-ranking-20261012"
+    "sina-help-ranking-20261012",
+    "bjd-cctv-dashui-20261021",
+    "sina-shangguan-dashui-20261021",
+    "xinhua-bjnews-bigpackage-20261016"
   ],
   "claims": [
     {
@@ -65,11 +68,32 @@
         "wyzxwk-dashui-20261014"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "京报网转载的央视新闻报道将白水替代饮料、容器提醒与固定杯数或短时大量饮水的误读区分；本档案仅记录报道的风险区分，不从网络口号给出统一饮水目标。",
+      "source_ids": [
+        "bjd-cctv-dashui-20261021"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "林子璐的时评将大水、大睡和大菜解释为低成本日常自我关怀，并与纯过日子人的标签对照；这是评论作者的观察，与既有强弱评分、商业等解释并列。",
+      "source_ids": [
+        "sina-shangguan-dashui-20261021"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "新华网转载的新京报报道把大包装放入不同品类与消费场景中讨论，认为扩容还受供应链、渠道与保鲜条件限制，不能从热梗直接推断持续经营收益。",
+      "source_ids": [
+        "xinhua-bjnews-bigpackage-20261016"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "寻找原作者或推广账号的完整公开内容与发布时间。",
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。"
   ],
-  "updated_at": "2026-10-18"
+  "updated_at": "2026-10-22"
 }

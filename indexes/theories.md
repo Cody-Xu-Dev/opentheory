@@ -8,13 +8,13 @@
 | [不说话理论](../knowledge/bushuohua.md) | candidate | 2026-10-19 |
 | [纯日子理论](../knowledge/chunrizi.md) | candidate | 2026-10-17 |
 | [大健康理论](../knowledge/da-jiankang.md) | candidate | 2026-10-18 |
-| [大杯理论](../knowledge/dabei.md) | candidate | 2026-10-14 |
+| [大杯理论](../knowledge/dabei.md) | candidate | 2026-10-22 |
 | [大便理论](../knowledge/dabian.md) | candidate | 2026-10-16 |
-| [大菜理论](../knowledge/dacai.md) | candidate | 2026-10-18 |
+| [大菜理论](../knowledge/dacai.md) | candidate | 2026-10-22 |
 | [大蛋理论](../knowledge/dadan.md) | candidate | 2026-10-18 |
 | [大锅理论](../knowledge/daguo.md) | candidate | 2026-10-17 |
-| [大水理论](../knowledge/dashui.md) | tracked | 2026-10-18 |
-| [大睡理论](../knowledge/dashui-sleep.md) | candidate | 2026-10-18 |
+| [大水理论](../knowledge/dashui.md) | tracked | 2026-10-22 |
+| [大睡理论](../knowledge/dashui-sleep.md) | candidate | 2026-10-22 |
 | [定投理论](../knowledge/dingtou.md) | candidate | 2026-10-18 |
 | [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-10-21 |
 | [拒绝学生思维理论](../knowledge/jujue-xuesheng-siwei.md) | candidate | 2026-10-19 |

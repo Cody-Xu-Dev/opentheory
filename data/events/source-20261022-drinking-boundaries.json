@@ -1,0 +1,13 @@
+{
+  "id": "source-20261022-drinking-boundaries",
+  "date": "2026-10-22",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui"
+  ],
+  "source_ids": [
+    "bjd-cctv-dashui-20261021"
+  ],
+  "summary": "补录10月21日报道，保留白水替代饮料与过量饮水误读之间的区分；署名与原始出处未核实部分单列。",
+  "run_id": "daily-20261022-085646"
+}
