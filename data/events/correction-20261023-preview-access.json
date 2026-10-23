@@ -1,0 +1,14 @@
+{
+  "id": "correction-20261023-preview-access",
+  "date": "2026-10-23",
+  "type": "correction",
+  "theory_ids": [
+    "boji",
+    "sunxue"
+  ],
+  "source_ids": [
+    "bili-interview-preview-20261023"
+  ],
+  "summary": "访谈预告链接本次返回播单/稿件读取错误，新增supersedes版本记unavailable，保留此前元数据；不推断视频已删除或作者撤回观点。",
+  "run_id": "daily-20261023-085950"
+}

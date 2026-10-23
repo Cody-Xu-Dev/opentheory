@@ -23,7 +23,9 @@
     "sina-help-ranking-20261012",
     "3dm-boji-commentary-20260927",
     "bili-interview-preview-20261009",
-    "mideasternm-sunxue-skill-20261021"
+    "mideasternm-sunxue-skill-20261021",
+    "bili-interview-preview-20261023",
+    "dxy-boji-20261015"
   ],
   "claims": [
     {
@@ -67,11 +69,18 @@
         "3dm-boji-commentary-20260927"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "VV在丁香医生的文章将薄肌视为互联网审美词而非医学健康指标，并提醒不要把极低体脂和统一身材目标当作人人应遵循的标准；这是该媒体的解释，不是对具体体脂或训练数字的验证。",
+      "source_ids": [
+        "dxy-boji-20261015"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-10-21"
+  "updated_at": "2026-10-23"
 }
