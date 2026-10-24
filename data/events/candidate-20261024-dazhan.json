@@ -1,0 +1,13 @@
+{
+  "id": "candidate-20261024-dazhan",
+  "date": "2026-10-24",
+  "type": "candidate_found",
+  "theory_ids": [
+    "dazhan"
+  ],
+  "source_ids": [
+    "sina-kejiif-roundup-20261013"
+  ],
+  "summary": "发现大站理论在个人盘点中的解释，先列candidate，首创、定义及别名关系仍待核实。",
+  "run_id": "daily-20261024-090019"
+}

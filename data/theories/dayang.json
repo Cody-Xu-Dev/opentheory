@@ -1,0 +1,24 @@
+{
+  "id": "dayang",
+  "name": "大氧理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "科技IF的个人盘点以大氧理论指代跑步与心肺活动的标签；尚未核实首创者，与氧气理论的同源或别名关系待核实。",
+  "source_ids": [
+    "sina-kejiif-roundup-20261013"
+  ],
+  "claims": [
+    {
+      "text": "科技IF的个人盘点以大氧理论指代跑步与心肺活动的标签；尚未核实首创者，与氧气理论的同源或别名关系待核实。",
+      "source_ids": [
+        "sina-kejiif-roundup-20261013"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找最早使用者的公开原帖、定义和可靠发布时间，不将个人盘点认定为首创。",
+    "核实与既有氧气理论是否同义、同源或仅语义相近；未确认前分别保留候选。"
+  ],
+  "updated_at": "2026-10-24"
+}

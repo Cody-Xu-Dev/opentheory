@@ -1,0 +1,20 @@
+{
+  "id": "source-20261024-ten-theories",
+  "date": "2026-10-24",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "dashui",
+    "dashui-sleep",
+    "huangmao",
+    "sunxue",
+    "dadan",
+    "dacai",
+    "dabian"
+  ],
+  "source_ids": [
+    "sina-kejiif-roundup-20261013"
+  ],
+  "summary": "补录10月13日科技IF个人盘点，为既有八个主题补充传播材料，不将10月24日发现当作当日发布。",
+  "run_id": "daily-20261024-090019"
+}

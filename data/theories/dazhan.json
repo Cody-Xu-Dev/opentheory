@@ -1,0 +1,24 @@
+{
+  "id": "dazhan",
+  "name": "大站理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "科技IF的个人盘点以大站理论指代打断久坐、站起来活动的日常标签；尚未核实首创者、完整原始定义与独立传播范围。",
+  "source_ids": [
+    "sina-kejiif-roundup-20261013"
+  ],
+  "claims": [
+    {
+      "text": "科技IF的个人盘点以大站理论指代打断久坐、站起来活动的日常标签；尚未核实首创者、完整原始定义与独立传播范围。",
+      "source_ids": [
+        "sina-kejiif-roundup-20261013"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找最早使用者的公开原帖、定义和可靠发布时间，不将个人盘点认定为首创。",
+    "确认是独立话语、既有主题别名还是短期二创，不从名称推导健康功效。"
+  ],
+  "updated_at": "2026-10-24"
+}

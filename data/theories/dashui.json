@@ -24,7 +24,8 @@
     "sina-help-ranking-20261012",
     "bjd-cctv-dashui-20261021",
     "sina-shangguan-dashui-20261021",
-    "xinhua-bjnews-bigpackage-20261016"
+    "xinhua-bjnews-bigpackage-20261016",
+    "sina-kejiif-roundup-20261013"
   ],
   "claims": [
     {
@@ -95,5 +96,5 @@
     "寻找原作者或推广账号的完整公开内容与发布时间。",
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。"
   ],
-  "updated_at": "2026-10-22"
+  "updated_at": "2026-10-24"
 }
