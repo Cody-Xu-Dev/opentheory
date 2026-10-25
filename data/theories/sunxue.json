@@ -19,7 +19,9 @@
     "bili-interview-preview-20261009",
     "mideasternm-sunxue-skill-20261021",
     "bili-interview-preview-20261023",
-    "sina-kejiif-roundup-20261013"
+    "sina-kejiif-roundup-20261013",
+    "2aran-interview-analysis-20261025",
+    "bili-interview-preview-20261025"
   ],
   "claims": [
     {
@@ -49,11 +51,18 @@
         "mideasternm-sunxue-skill-20261021"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "涂阿燃的访谈分析区分转写与媒体笔记，指出整理者可能增加决策模型名称，同时保留高度信任AI与个人调整之间的张力；这是作者的对照分析，原材料未在本档案逐项独立核对。",
+      "source_ids": [
+        "2aran-interview-analysis-20261025"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "补充孙宇晨本人公开原帖与作品来源。",
     "区分原作者自述、人物模仿 Skill、社区评论和后续理论组合。"
   ],
-  "updated_at": "2026-10-24"
+  "updated_at": "2026-10-25"
 }

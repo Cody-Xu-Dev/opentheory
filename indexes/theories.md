@@ -4,7 +4,7 @@
 
 | 名称 | 状态 | 更新日 |
 | --- | --- | --- |
-| [薄肌理论](../knowledge/boji.md) | tracked | 2026-10-24 |
+| [薄肌理论](../knowledge/boji.md) | tracked | 2026-10-25 |
 | [不说话理论](../knowledge/bushuohua.md) | candidate | 2026-10-19 |
 | [纯日子理论](../knowledge/chunrizi.md) | candidate | 2026-10-17 |
 | [大健康理论](../knowledge/da-jiankang.md) | candidate | 2026-10-18 |
@@ -18,11 +18,11 @@
 | [大氧理论](../knowledge/dayang.md) | candidate | 2026-10-24 |
 | [大站理论](../knowledge/dazhan.md) | candidate | 2026-10-24 |
 | [定投理论](../knowledge/dingtou.md) | candidate | 2026-10-18 |
-| [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-10-24 |
+| [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-10-25 |
 | [拒绝学生思维理论](../knowledge/jujue-xuesheng-siwei.md) | candidate | 2026-10-19 |
 | [抗炎理论](../knowledge/kangyan.md) | candidate | 2026-10-18 |
 | [耍起理论](../knowledge/shuaqi.md) | candidate | 2026-10-18 |
-| [孙学](../knowledge/sunxue.md) | tracked | 2026-10-24 |
+| [孙学](../knowledge/sunxue.md) | tracked | 2026-10-25 |
 | [提肛理论](../knowledge/tigang.md) | candidate | 2026-10-18 |
 | [小水理论](../knowledge/xiaoshui.md) | candidate | 2026-10-18 |
 | [氧气理论](../knowledge/yangqi.md) | candidate | 2026-10-17 |

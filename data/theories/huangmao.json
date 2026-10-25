@@ -18,7 +18,8 @@
     "chongbuluo-roundup-20261018",
     "sina-help-ranking-20261012",
     "mideasternm-sunxue-skill-20261021",
-    "sina-kejiif-roundup-20261013"
+    "sina-kejiif-roundup-20261013",
+    "2aran-interview-analysis-20261025"
   ],
   "claims": [
     {
@@ -41,11 +42,18 @@
         "huxiu-xiexiu-20261013"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "涂阿燃把黄毛的生活边界、节奏与选择权表述，和访谈中抗嘲笑、坚持执行的表述加以比较；本档案作为该作者的版本辨析保存，不据此确定唯一原始定义。",
+      "source_ids": [
+        "2aran-interview-analysis-20261025"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "逐一核读笔记引用的原帖和完整直播，核实时间线。",
     "区分黄毛形象与黄毛理论名称，不能由形象先出现推断理论首创。"
   ],
-  "updated_at": "2026-10-24"
+  "updated_at": "2026-10-25"
 }
