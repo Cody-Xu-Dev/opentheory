@@ -25,7 +25,8 @@
     "bjd-cctv-dashui-20261021",
     "sina-shangguan-dashui-20261021",
     "xinhua-bjnews-bigpackage-20261016",
-    "sina-kejiif-roundup-20261013"
+    "sina-kejiif-roundup-20261013",
+    "sina-cover-dashui-interview-20261023"
   ],
   "claims": [
     {
@@ -90,11 +91,26 @@
         "xinhua-bjnews-bigpackage-20261016"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "封面新闻采访中，孙浩然自述首次发布相关视频是在9月30日，同时说明喝水不是解决内耗的全部办法；本档案保留为采访转述，尚未据原视频确认全网首创。",
+      "source_ids": [
+        "sina-cover-dashui-interview-20261023"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "同篇报道保留消费者反对以饮品划分强弱的声音，并指出所走访成都门店未见与线上热度相应的普遍销量跳涨；不能外推为全国市场结论。",
+      "source_ids": [
+        "sina-cover-dashui-interview-20261023"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "寻找原作者或推广账号的完整公开内容与发布时间。",
-    "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。"
+    "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
+    "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-10-24"
+  "updated_at": "2026-10-26"
 }

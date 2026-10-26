@@ -13,7 +13,7 @@
 | [大菜理论](../knowledge/dacai.md) | candidate | 2026-10-24 |
 | [大蛋理论](../knowledge/dadan.md) | candidate | 2026-10-24 |
 | [大锅理论](../knowledge/daguo.md) | candidate | 2026-10-17 |
-| [大水理论](../knowledge/dashui.md) | tracked | 2026-10-24 |
+| [大水理论](../knowledge/dashui.md) | tracked | 2026-10-26 |
 | [大睡理论](../knowledge/dashui-sleep.md) | candidate | 2026-10-24 |
 | [大氧理论](../knowledge/dayang.md) | candidate | 2026-10-24 |
 | [大站理论](../knowledge/dazhan.md) | candidate | 2026-10-24 |
