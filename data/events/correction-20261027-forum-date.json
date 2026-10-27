@@ -1,0 +1,20 @@
+{
+  "id": "correction-20261027-forum-date",
+  "date": "2026-10-27",
+  "type": "correction",
+  "theory_ids": [
+    "boji",
+    "dacai",
+    "dadan",
+    "dashui-sleep",
+    "dashui",
+    "huangmao",
+    "shuaqi",
+    "tigang"
+  ],
+  "source_ids": [
+    "chongbuluo-roundup-20261027"
+  ],
+  "summary": "虫部落主帖本次展示2026年10月14日绝对日期，新增supersedes版本补充旧null日期；原记录保留，未认定正文观点改变。",
+  "run_id": "daily-20261027-090015"
+}

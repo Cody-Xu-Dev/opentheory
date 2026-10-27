@@ -26,7 +26,11 @@
     "sina-shangguan-dashui-20261021",
     "xinhua-bjnews-bigpackage-20261016",
     "sina-kejiif-roundup-20261013",
-    "sina-cover-dashui-interview-20261023"
+    "sina-cover-dashui-interview-20261023",
+    "ifeng-newweekly-roundup-20261026",
+    "wenxuecity-zhizhu-dashui-20261019",
+    "jiemian-culture-theories-20261027",
+    "chongbuluo-roundup-20261027"
   ],
   "claims": [
     {
@@ -105,6 +109,27 @@
         "sina-cover-dashui-interview-20261023"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "Fleming在新周刊评论中把理论热潮理解为日常习惯的命名、身份区分与趣味参与；该评论既质疑简化现实，也承认小行动的吸引力，不能据此推断全部参与者动机。",
+      "source_ids": [
+        "ifeng-newweekly-roundup-20261026"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "知著网署源评论的文学城转载批评大水的变强叙事与群体区分，并列出大溜和大包两个衍生名称；这里只保留评论与候选线索，不确立起源。",
+      "source_ids": [
+        "wenxuecity-zhizhu-dashui-20261019"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "侯嘉煜在文化周报中比较强弱分类与低成本生活、自我关怀两种解释，并提及租房电动车等衍生说法；这是记者对原视频的二次观察，本档案未据此认定唯一发起者。",
+      "source_ids": [
+        "jiemian-culture-theories-20261027"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
@@ -112,5 +137,5 @@
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
     "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-10-26"
+  "updated_at": "2026-10-27"
 }

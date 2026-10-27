@@ -1,0 +1,24 @@
+{
+  "id": "daliu",
+  "name": "大溜理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "知著网署源的转载评论将出门溜达称为大溜理论；仅有二次名称线索，独立性和起源待核实。",
+  "source_ids": [
+    "wenxuecity-zhizhu-dashui-20261019"
+  ],
+  "claims": [
+    {
+      "text": "文学城转载的评论把大溜理论解释为提倡出门到处溜达；当前仅以该文用法保存为候选，不证明首创者或普遍效果。",
+      "source_ids": [
+        "wenxuecity-zhizhu-dashui-20261019"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找原始公开内容，核对作者、发布时间和完整定义。",
+    "确认是独立话语、既有主题别名还是短期玩梗；补充相互独立的证据。"
+  ],
+  "updated_at": "2026-10-27"
+}

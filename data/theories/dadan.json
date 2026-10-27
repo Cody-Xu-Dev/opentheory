@@ -7,7 +7,8 @@
   "source_ids": [
     "sina-zhuzongjian-theories-20261014",
     "chongbuluo-roundup-20261018",
-    "sina-kejiif-roundup-20261013"
+    "sina-kejiif-roundup-20261013",
+    "chongbuluo-roundup-20261027"
   ],
   "claims": [
     {
@@ -29,5 +30,5 @@
     "寻找名称最早使用者的公开原文、定义与发布时间。",
     "确认是独立话语、已有主题别名还是个人盘点中的短期玩梗。"
   ],
-  "updated_at": "2026-10-24"
+  "updated_at": "2026-10-27"
 }

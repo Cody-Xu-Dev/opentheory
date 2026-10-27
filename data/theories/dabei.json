@@ -8,7 +8,8 @@
   "summary": "二次评论中强调自带大容量杯接水的衍生话语，独立性和原始出处待核实。",
   "source_ids": [
     "sohu-dashui-20261009",
-    "sina-shangguan-dashui-20261021"
+    "sina-shangguan-dashui-20261021",
+    "ifeng-newweekly-roundup-20261026"
   ],
   "claims": [
     {
@@ -24,11 +25,18 @@
         "sina-shangguan-dashui-20261021"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "新周刊评论同样将大水杯描述为自带杯接水，并另列买壶接免费水的大壶理论；暂将大壶独立列为候选，不因容器相似直接合并。",
+      "source_ids": [
+        "ifeng-newweekly-roundup-20261026"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读原作者的定义和发布时间。",
     "确认是独立话语、已有主题别名还是短期玩梗。"
   ],
-  "updated_at": "2026-10-22"
+  "updated_at": "2026-10-27"
 }

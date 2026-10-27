@@ -1,0 +1,24 @@
+{
+  "id": "zufang-diandongche",
+  "name": "租房电动车理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "界面文化周报提及的租房、电动车与降低打工生活开支的话语；原视频与具体主张尚待核读。",
+  "source_ids": [
+    "jiemian-culture-theories-20261027"
+  ],
+  "claims": [
+    {
+      "text": "侯嘉煜将租房电动车理论概括为试图帮助在外打工的年轻人节省开支，并转述其与孙浩然的关系；本档案仅保存记者说法，未确认首发、账号身份或具体生活建议。",
+      "source_ids": [
+        "jiemian-culture-theories-20261027"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找原始公开内容，核对作者、发布时间和完整定义。",
+    "确认是独立话语、既有主题别名还是短期玩梗；补充相互独立的证据。"
+  ],
+  "updated_at": "2026-10-27"
+}

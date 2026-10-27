@@ -1,0 +1,16 @@
+{
+  "id": "source-20261027-theory-commentaries",
+  "date": "2026-10-27",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui",
+    "dabei"
+  ],
+  "source_ids": [
+    "ifeng-newweekly-roundup-20261026",
+    "wenxuecity-zhizhu-dashui-20261019",
+    "jiemian-culture-theories-20261027"
+  ],
+  "summary": "补充新周刊、知著网署源转载与界面文化周报的不同评论，记录玩梗、强弱分类和低成本生活的解释；同篇转载去重。",
+  "run_id": "daily-20261027-090015"
+}

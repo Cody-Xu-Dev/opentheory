@@ -28,7 +28,10 @@
     "dxy-boji-20261015",
     "sina-kejiif-roundup-20261013",
     "2aran-interview-analysis-20261025",
-    "bili-interview-preview-20261025"
+    "bili-interview-preview-20261025",
+    "enliva-sustainable-boji-20261027",
+    "roc-dove-alan-skill-20261027",
+    "chongbuluo-roundup-20261027"
   ],
   "claims": [
     {
@@ -79,11 +82,25 @@
         "dxy-boji-20261015"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "Enliva LLC以独立手册提出薄肌的长期维持改编，补入有氧、睡眠与恢复等环节；这是维护者的改写方向，不代表邵艾伦正式更新，也不验证其中具体训练指标。",
+      "source_ids": [
+        "enliva-sustainable-boji-20261027"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "Roc-Dove将身体作为恢复行动感的入口，并区分框架模拟和人物原话；其研究截至10月15日，不能代替原始视频或人物之后的新立场。",
+      "source_ids": [
+        "roc-dove-alan-skill-20261027"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-10-25"
+  "updated_at": "2026-10-27"
 }
