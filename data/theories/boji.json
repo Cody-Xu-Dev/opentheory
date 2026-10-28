@@ -31,7 +31,8 @@
     "bili-interview-preview-20261025",
     "enliva-sustainable-boji-20261027",
     "roc-dove-alan-skill-20261027",
-    "chongbuluo-roundup-20261027"
+    "chongbuluo-roundup-20261027",
+    "dzwww-qingdao-theories-20261026"
   ],
   "claims": [
     {
@@ -96,11 +97,18 @@
         "roc-dove-alan-skill-20261027"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "同篇评论采用较宽的薄肌生活化解释，将通勤快走和居家力量训练也纳入其叙述；这是评论者对话语的扩展，不能替代原作者的具体定义或视为已验证训练方法。",
+      "source_ids": [
+        "dzwww-qingdao-theories-20261026"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-10-27"
+  "updated_at": "2026-10-28"
 }

@@ -5,7 +5,8 @@
   "status": "candidate",
   "summary": "科技IF的个人盘点以大氧理论指代跑步与心肺活动的标签；尚未核实首创者，与氧气理论的同源或别名关系待核实。",
   "source_ids": [
-    "sina-kejiif-roundup-20261013"
+    "sina-kejiif-roundup-20261013",
+    "dzwww-qingdao-theories-20261026"
   ],
   "claims": [
     {
@@ -14,11 +15,18 @@
         "sina-kejiif-roundup-20261013"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "大众网转载青岛宣传评论将大氧概括为多进行户外活动；这一用法比既有个人盘点的跑步与心肺活动更宽，分别保存，不据此认定统一定义或与氧气理论同源。",
+      "source_ids": [
+        "dzwww-qingdao-theories-20261026"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "寻找最早使用者的公开原帖、定义和可靠发布时间，不将个人盘点认定为首创。",
     "核实与既有氧气理论是否同义、同源或仅语义相近；未确认前分别保留候选。"
   ],
-  "updated_at": "2026-10-24"
+  "updated_at": "2026-10-28"
 }
