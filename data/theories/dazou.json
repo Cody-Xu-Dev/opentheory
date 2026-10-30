@@ -1,0 +1,24 @@
+{
+  "id": "dazou",
+  "name": "大走理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "潮新闻评论把简单户外走路、减少精神内耗的说法称为大走理论；目前仅据二次评论收录名称与解释，原始提出者及传播范围待查。",
+  "source_ids": [
+    "tidenews-dazou-20261027"
+  ],
+  "claims": [
+    {
+      "text": "谢嘉亮在潮评赛评论中把简单户外走路、减少精神内耗概括为大走理论。",
+      "source_ids": [
+        "tidenews-dazou-20261027"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找原始提出者、首次公开定义与发布时间。",
+    "核对大走与大溜、大氧的关系；定义相近不代表同一名称或同一传播源。"
+  ],
+  "updated_at": "2026-10-30"
+}

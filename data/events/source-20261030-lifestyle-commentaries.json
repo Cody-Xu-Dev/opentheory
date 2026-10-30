@@ -1,0 +1,17 @@
+{
+  "id": "source-20261030-lifestyle-commentaries",
+  "date": "2026-10-30",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui",
+    "dashui-sleep",
+    "boji"
+  ],
+  "source_ids": [
+    "tidenews-dazou-20261027",
+    "36kr-xiaofang-dashui-20261028",
+    "bjd-youth-dashui-20261028"
+  ],
+  "summary": "补收三份10月27日至28日评论，保留选择自由、消费决策与生活主动感等不同解释；36氪先前受限正文已可核读，资料发现日与发布日期分别记录。",
+  "run_id": "daily-20261030-090232"
+}

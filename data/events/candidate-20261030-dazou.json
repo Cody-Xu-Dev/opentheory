@@ -1,0 +1,13 @@
+{
+  "id": "candidate-20261030-dazou",
+  "date": "2026-10-30",
+  "type": "candidate_found",
+  "theory_ids": [
+    "dazou"
+  ],
+  "source_ids": [
+    "tidenews-dazou-20261027"
+  ],
+  "summary": "补收10月27日潮新闻评论中的大走理论定义，先列候选；不是10月30日首创，不与大溜或大氧直接合并。",
+  "run_id": "daily-20261030-090232"
+}

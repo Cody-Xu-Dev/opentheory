@@ -1,0 +1,123 @@
+{
+  "id": "daily-20261029-095646",
+  "date": "2026-10-29",
+  "started_at": "2026-10-29T09:56:46+08:00",
+  "completed_at": "2026-10-29T02:00:07+00:00",
+  "status": "failed",
+  "coverage_from": "2026-09-18T08:57:17+08:00",
+  "coverage_to": "2026-10-29T09:56:46+08:00",
+  "checks": [
+    {
+      "query": "GitHub connector: main SHA and remote rules/data",
+      "outcome": "failed",
+      "note": "github.fetch and github.fetch_file both returned: MCP tool is not available to the model. Remote baseline was not obtained; local files are not treated as current remote state."
+    },
+    {
+      "query": "Search connector availability: \"薄肌理论\", \"大水理论\", \"黄毛理论\"",
+      "outcome": "failed",
+      "note": "search_service.web_run returned: MCP tool is not available to the model; no search results were returned."
+    },
+    {
+      "query": "\"薄肌理论\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"邵艾伦\" \"薄肌\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "site:github.com \"薄肌\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"大水理论\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"大水理论\" \"长安二球\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "site:github.com \"大水理论\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"黄毛理论\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"黄毛理论\" \"徐可\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"黄毛理论\" \"孙宇晨\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"孙学\" \"孙宇晨\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"孙宇晨\" \"邵艾伦\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "site:github.com \"孙学\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"薄肌\" \"新理论\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"大水\" \"理论\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"互联网\" \"理论\" \"版本答案\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"大睡理论\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "\"小水理论\"",
+      "outcome": "failed",
+      "note": "Not completed: required remote baseline could not be read. The configured query is recorded as uncovered, not as an executed search with no results."
+    },
+    {
+      "query": "Existing source revisions",
+      "outcome": "failed",
+      "note": "Not performed: remote source inventory could not be read."
+    },
+    {
+      "query": "Publish with create_tree/create_commit/update_ref",
+      "outcome": "failed",
+      "note": "Not attempted: current remote main SHA/base tree unavailable; no remote publication or verification claimed."
+    }
+  ],
+  "failures": [
+    "GitHub read connector unavailable; remote main SHA, rules and data were not retrieved. Local rules and prior records were read only as fallback context.",
+    "Search connector unavailable; configured searches and original-source checks remain incomplete. No conclusion about new content is supported.",
+    "Coverage dates denote the intended catch-up window only; status failed does not advance the complete coverage watermark.",
+    "Failure log and generated daily page are local only, pending reconciliation against the latest remote baseline before any future publication."
+  ],
+  "event_ids": []
+}

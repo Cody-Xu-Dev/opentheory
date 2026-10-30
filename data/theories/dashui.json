@@ -31,7 +31,10 @@
     "wenxuecity-zhizhu-dashui-20261019",
     "jiemian-culture-theories-20261027",
     "chongbuluo-roundup-20261027",
-    "dzwww-qingdao-theories-20261026"
+    "dzwww-qingdao-theories-20261026",
+    "tidenews-dazou-20261027",
+    "36kr-xiaofang-dashui-20261028",
+    "bjd-youth-dashui-20261028"
   ],
   "claims": [
     {
@@ -138,6 +141,27 @@
         "dzwww-qingdao-theories-20261026"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "谢嘉亮的评论把强弱口号视为戏谑表达，强调选择自由，并提醒强制灌水或将睡眠当作逃避可能带来新的内耗；属于该作者的解释。",
+      "source_ids": [
+        "tidenews-dazou-20261027"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "王晓芳团队从性价比、减少消费决策与小目标的确定感解释大水热潮；本档案仅记录其消费叙事，不采纳文中未经独立核验的健康数字和市场预测。",
+      "source_ids": [
+        "36kr-xiaofang-dashui-20261028"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "中国青年报评论的京报网转载将大水解释为以概念命名和幽默表达获得生活主动感，并与纯过日子联系；这是评论观点，与已有变强叙事及批评版本并列保留。",
+      "source_ids": [
+        "bjd-youth-dashui-20261028"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
@@ -145,5 +169,5 @@
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
     "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-10-28"
+  "updated_at": "2026-10-30"
 }

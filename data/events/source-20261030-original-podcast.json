@@ -1,0 +1,14 @@
+{
+  "id": "source-20261030-original-podcast",
+  "date": "2026-10-30",
+  "type": "source_added",
+  "theory_ids": [
+    "sunxue",
+    "boji"
+  ],
+  "source_ids": [
+    "xiaoyuzhou-sun-alan-20261030"
+  ],
+  "summary": "补充发布栏目可见的小宇宙原节目入口和简介元数据，音视频正文及绝对发布日期仍未取得，不新增嘉宾原话观点。",
+  "run_id": "daily-20261030-090232"
+}

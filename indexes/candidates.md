@@ -14,6 +14,7 @@
 - [大睡理论](../knowledge/dashui-sleep.md)
 - [大氧理论](../knowledge/dayang.md)
 - [大站理论](../knowledge/dazhan.md)
+- [大走理论](../knowledge/dazou.md)
 - [定投理论](../knowledge/dingtou.md)
 - [拒绝学生思维理论](../knowledge/jujue-xuesheng-siwei.md)
 - [抗炎理论](../knowledge/kangyan.md)

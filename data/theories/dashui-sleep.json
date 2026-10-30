@@ -15,7 +15,9 @@
     "sina-shangguan-dashui-20261021",
     "sina-kejiif-roundup-20261013",
     "chongbuluo-roundup-20261027",
-    "dzwww-qingdao-theories-20261026"
+    "dzwww-qingdao-theories-20261026",
+    "tidenews-dazou-20261027",
+    "36kr-xiaofang-dashui-20261028"
   ],
   "claims": [
     {
@@ -25,11 +27,18 @@
         "sohu-dashui-20261009"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "同篇评论将大睡概括为用高质量睡眠替代熬夜，并反对把生活乐子变成严格执行的计划书；这是二次评论，不是经核实的统一规则。",
+      "source_ids": [
+        "tidenews-dazou-20261027"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读原作者的定义和发布时间。",
     "确认是独立话语、已有主题别名还是短期玩梗。"
   ],
-  "updated_at": "2026-10-28"
+  "updated_at": "2026-10-30"
 }
