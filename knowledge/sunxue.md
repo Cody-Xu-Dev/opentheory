@@ -1,6 +1,6 @@
 # 孙学
 
-状态：tracked · 更新：2026-10-30
+状态：tracked · 更新：2026-10-31
 
 围绕孙宇晨公开表达、叙事及决策方式形成的网络讨论与二次整理。当前来源包括研究 Skill 和与邵艾伦的访谈文字稿索引。
 
@@ -16,6 +16,8 @@
   来源：[孙宇晨 Skill｜孙学·孙哥思维框架｜邵艾伦 Alan 四小时访谈](https://github.com/MideasternM/sun-yuchen-sunxue-alan-skill)
 - 涂阿燃的访谈分析区分转写与媒体笔记，指出整理者可能增加决策模型名称，同时保留高度信任AI与个人调整之间的张力；这是作者的对照分析，原材料未在本档案逐项独立核对。（secondary_summary）
   来源：[邵艾伦对话孙宇晨：四小时对谈里的方法与待核查说法](https://2aran.com/articles/research/topics/shao-ailun-justin-sun-interview)
+- btsx将资源配置与情感能力视为不同问题，质疑把赢的方法当作关系问题的统一答案；属于博客作者的比较解读。（secondary_summary）
+  来源：[Do We Need a Winning Methodology or the Courage to Love (Xuke Vs Sun)](https://www.btsx.net/do-we-need-a-winning-methodology-or-the-courage-to-love/)
 
 ## 来源
 
@@ -49,6 +51,8 @@
   限制：10月23日的播单/稿件错误在本次读取中未再出现，仅确认当前元数据可读；不能据此判断此前错误的原因或视频是否曾下架。预告上传时间不等于完整版发布日期，英文展示不视为已核听原片。
 - [对话孙宇晨：年轻人如何抓住AI时代的机会？](https://www.xiaoyuzhoufm.com/episode/6aca25e3e742e36efcc0ebfd) · primary / metadata_only
   限制：页面仅显示19天前，不能以相对日期推算绝对发布日期；评论时间不是节目发布时间。简介可读不代表访谈已核读，本条仅作为原始节目入口，不支持嘉宾实质观点。
+- [Do We Need a Winning Methodology or the Courage to Love (Xuke Vs Sun)](https://www.btsx.net/do-we-need-a-winning-methodology-or-the-courage-to-love/) · secondary / read
+  限制：核读博客正文、日期与页尾署名；文中对徐可、孙宇晨帖文和评论的转述未逐项对照原帖，截图未作文字核验。仅记录博客作者的比较视角，不确认人物原话、动机或传播统计。
 
 ## 待补资料
 
@@ -57,6 +61,7 @@
 
 ## 更新历史
 
+- [2026-10-31](../daily/2026/2026-10-31.md)：补收10月22日博客评论，保留资源配置、主体性与情感能力之间的不同解读；发现日期不等于发表日期，未将评论者转述认定为原作者的新立场。
 - [2026-10-30](../daily/2026/2026-10-30.md)：补充发布栏目可见的小宇宙原节目入口和简介元数据，音视频正文及绝对发布日期仍未取得，不新增嘉宾原话观点。
 - [2026-10-25](../daily/2026/2026-10-25.md)：核读访谈的二次对照分析，补充转写、媒体命名和作者解释的边界；页面首次发布日期未知，不作为今天发布。
 - [2026-10-25](../daily/2026/2026-10-25.md)：此前读取报错的访谈预告链接重新展示元数据，新增supersedes版本记metadata_only；仍未取得视频正文，不推断此前错误原因。

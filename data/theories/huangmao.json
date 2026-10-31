@@ -22,7 +22,8 @@
     "2aran-interview-analysis-20261025",
     "roc-dove-alan-skill-20261027",
     "chongbuluo-roundup-20261027",
-    "dzwww-qingdao-theories-20261026"
+    "dzwww-qingdao-theories-20261026",
+    "btsx-xuke-sun-20261022"
   ],
   "claims": [
     {
@@ -59,11 +60,18 @@
         "roc-dove-alan-skill-20261027"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "同篇评论认为黄毛的自主行动与孙学的结果导向存在张力；这是评论者的解释，未据原帖核实人物立场变化。",
+      "source_ids": [
+        "btsx-xuke-sun-20261022"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "逐一核读笔记引用的原帖和完整直播，核实时间线。",
     "区分黄毛形象与黄毛理论名称，不能由形象先出现推断理论首创。"
   ],
-  "updated_at": "2026-10-28"
+  "updated_at": "2026-10-31"
 }

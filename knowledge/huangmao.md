@@ -1,6 +1,6 @@
 # 黄毛理论
 
-状态：tracked · 更新：2026-10-28
+状态：tracked · 更新：2026-10-31
 
 涉及自我表达、评价压力和行动方式的网络话语。二次研究呈现多个版本，起源与创始归属尚未在本档案独立核实。
 
@@ -16,6 +16,8 @@
   来源：[邵艾伦对话孙宇晨：四小时对谈里的方法与待核查说法](https://2aran.com/articles/research/topics/shao-ailun-justin-sun-interview)
 - Roc-Dove的研究归纳把抗嘲笑执行与根据证据复验判断并列；这是维护者的解释，不将其模拟示例当作邵艾伦原话。（secondary_summary）
   来源：[邵艾伦.skill：薄肌、男性成长与黄毛思维](https://github.com/Roc-Dove/shao-alan-skill)
+- 同篇评论认为黄毛的自主行动与孙学的结果导向存在张力；这是评论者的解释，未据原帖核实人物立场变化。（secondary_summary）
+  来源：[Do We Need a Winning Methodology or the Courage to Love (Xuke Vs Sun)](https://www.btsx.net/do-we-need-a-winning-methodology-or-the-courage-to-love/)
 
 ## 来源
 
@@ -51,6 +53,8 @@
   限制：本次核读主帖显示的绝对时间，页面未注明时区，published_at仅记录显示日期。旧版null保留，通过supersedes补充，不把核对日当首发日。个人体验及玩梗不是医学证据或首创证明，不采用具体饮食饮水数量；提纲与提肛的标题/正文差异仍保留。
 - [“大水、大睡、大氧”，这届年轻人正把日子过成“大理论”？](https://www.dzwww.com/xinwen/shehuixinwen/202610/t20261026_18240050.htm) · secondary / read
   限制：核读大众网正文、署名及10月26日14:06的页面时间，未找到并核读青岛宣传首发原文；发布时间仅记录显示日期，不推定首发时刻。属于评论者的版本，非理论原作者声明；不验证健康效果、传播规模或所有年轻人的动机。10月28日发现，非当天发布。
+- [Do We Need a Winning Methodology or the Courage to Love (Xuke Vs Sun)](https://www.btsx.net/do-we-need-a-winning-methodology-or-the-courage-to-love/) · secondary / read
+  限制：核读博客正文、日期与页尾署名；文中对徐可、孙宇晨帖文和评论的转述未逐项对照原帖，截图未作文字核验。仅记录博客作者的比较视角，不确认人物原话、动机或传播统计。
 
 ## 待补资料
 
@@ -59,6 +63,7 @@
 
 ## 更新历史
 
+- [2026-10-31](../daily/2026/2026-10-31.md)：补收10月22日博客评论，保留资源配置、主体性与情感能力之间的不同解读；发现日期不等于发表日期，未将评论者转述认定为原作者的新立场。
 - [2026-10-28](../daily/2026/2026-10-28.md)：补充青岛宣传署源评论的大众网转载，保留生活化解释与教条化批评；新增大氧的户外活动版本及大站的二次用法，候选状态不变。10月26日旧资料今日发现。
 - [2026-10-27](../daily/2026/2026-10-27.md)：补入可持续薄肌手册与邵艾伦研究Skill两份独立整理，区分长期训练改编、人物研究和原作者正式更新；旧资料新发现，非今日发布。
 - [2026-10-27](../daily/2026/2026-10-27.md)：虫部落主帖本次展示2026年10月14日绝对日期，新增supersedes版本补充旧null日期；原记录保留，未认定正文观点改变。

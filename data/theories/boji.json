@@ -35,7 +35,8 @@
     "dzwww-qingdao-theories-20261026",
     "36kr-xiaofang-dashui-20261028",
     "bjd-youth-dashui-20261028",
-    "xiaoyuzhou-sun-alan-20261030"
+    "xiaoyuzhou-sun-alan-20261030",
+    "btsx-xuke-sun-20261022"
   ],
   "claims": [
     {
@@ -107,11 +108,18 @@
         "dzwww-qingdao-theories-20261026"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "同篇评论质疑身体或外在条件的改变能否替代关系能力；这是评论视角，不构成对任何健康或关系效果的验证。",
+      "source_ids": [
+        "btsx-xuke-sun-20261022"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-10-30"
+  "updated_at": "2026-10-31"
 }

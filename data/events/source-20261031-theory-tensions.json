@@ -1,0 +1,15 @@
+{
+  "id": "source-20261031-theory-tensions",
+  "date": "2026-10-31",
+  "type": "source_added",
+  "theory_ids": [
+    "sunxue",
+    "huangmao",
+    "boji"
+  ],
+  "source_ids": [
+    "btsx-xuke-sun-20261022"
+  ],
+  "summary": "补收10月22日博客评论，保留资源配置、主体性与情感能力之间的不同解读；发现日期不等于发表日期，未将评论者转述认定为原作者的新立场。",
+  "run_id": "daily-20261031-090526"
+}

@@ -22,7 +22,8 @@
     "sina-kejiif-roundup-20261013",
     "2aran-interview-analysis-20261025",
     "bili-interview-preview-20261025",
-    "xiaoyuzhou-sun-alan-20261030"
+    "xiaoyuzhou-sun-alan-20261030",
+    "btsx-xuke-sun-20261022"
   ],
   "claims": [
     {
@@ -59,11 +60,18 @@
         "2aran-interview-analysis-20261025"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "btsx将资源配置与情感能力视为不同问题，质疑把赢的方法当作关系问题的统一答案；属于博客作者的比较解读。",
+      "source_ids": [
+        "btsx-xuke-sun-20261022"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "补充孙宇晨本人公开原帖与作品来源。",
     "区分原作者自述、人物模仿 Skill、社区评论和后续理论组合。"
   ],
-  "updated_at": "2026-10-30"
+  "updated_at": "2026-10-31"
 }
