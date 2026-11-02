@@ -4,7 +4,7 @@
 
 | 名称 | 状态 | 更新日 |
 | --- | --- | --- |
-| [薄肌理论](../knowledge/boji.md) | tracked | 2026-10-31 |
+| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-02 |
 | [不说话理论](../knowledge/bushuohua.md) | candidate | 2026-10-19 |
 | [纯日子理论](../knowledge/chunrizi.md) | candidate | 2026-10-17 |
 | [大健康理论](../knowledge/da-jiankang.md) | candidate | 2026-10-18 |
@@ -14,19 +14,20 @@
 | [大菜理论](../knowledge/dacai.md) | candidate | 2026-10-28 |
 | [大蛋理论](../knowledge/dadan.md) | candidate | 2026-10-28 |
 | [大锅理论](../knowledge/daguo.md) | candidate | 2026-10-17 |
+| [大红果理论](../knowledge/dahongguo.md) | candidate | 2026-11-02 |
 | [大壶理论](../knowledge/dahu.md) | candidate | 2026-10-27 |
 | [大溜理论](../knowledge/daliu.md) | candidate | 2026-10-27 |
-| [大水理论](../knowledge/dashui.md) | tracked | 2026-10-30 |
-| [大睡理论](../knowledge/dashui-sleep.md) | candidate | 2026-10-30 |
+| [大水理论](../knowledge/dashui.md) | tracked | 2026-11-02 |
+| [大睡理论](../knowledge/dashui-sleep.md) | candidate | 2026-11-02 |
 | [大氧理论](../knowledge/dayang.md) | candidate | 2026-10-28 |
 | [大站理论](../knowledge/dazhan.md) | candidate | 2026-10-28 |
 | [大走理论](../knowledge/dazou.md) | candidate | 2026-10-30 |
 | [定投理论](../knowledge/dingtou.md) | candidate | 2026-10-18 |
-| [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-10-31 |
+| [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-11-02 |
 | [拒绝学生思维理论](../knowledge/jujue-xuesheng-siwei.md) | candidate | 2026-10-19 |
 | [抗炎理论](../knowledge/kangyan.md) | candidate | 2026-10-18 |
 | [耍起理论](../knowledge/shuaqi.md) | candidate | 2026-10-27 |
-| [孙学](../knowledge/sunxue.md) | tracked | 2026-10-31 |
+| [孙学](../knowledge/sunxue.md) | tracked | 2026-11-02 |
 | [提肛理论](../knowledge/tigang.md) | candidate | 2026-10-27 |
 | [小水理论](../knowledge/xiaoshui.md) | candidate | 2026-10-18 |
 | [氧气理论](../knowledge/yangqi.md) | candidate | 2026-10-17 |

@@ -1,0 +1,24 @@
+{
+  "id": "dahongguo",
+  "name": "大红果理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "评论文章列举的衍生玩梗，指减少文艺身份负担、转而观看免费AI短剧；目前只取得二手定义。",
+  "source_ids": [
+    "pedaily-ng-theory-20261030"
+  ],
+  "claims": [
+    {
+      "text": "黄瓜汽水在大理论清单中将大红果表述为放下文艺身份、观看免费AI短剧；这是评论中的命名，不足以确认独立理论、创始者或传播规模。",
+      "source_ids": [
+        "pedaily-ng-theory-20261030"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "能否找到可核读的首发或原作者定义？",
+    "是否仅是评论者的一次性命名，还是存在持续的独立讨论？"
+  ],
+  "updated_at": "2026-11-02"
+}

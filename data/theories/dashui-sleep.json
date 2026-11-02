@@ -17,7 +17,8 @@
     "chongbuluo-roundup-20261027",
     "dzwww-qingdao-theories-20261026",
     "tidenews-dazou-20261027",
-    "36kr-xiaofang-dashui-20261028"
+    "36kr-xiaofang-dashui-20261028",
+    "thepaper-health-boundaries-20261030"
   ],
   "claims": [
     {
@@ -34,11 +35,18 @@
         "tidenews-dazou-20261027"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "该报道转述医生对网络生活方式的评论，强调个体差异、循序渐进和可持续，反对固定数字与极端执行；具体研究和健康数字未独立审查。",
+      "source_ids": [
+        "thepaper-health-boundaries-20261030"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读原作者的定义和发布时间。",
     "确认是独立话语、已有主题别名还是短期玩梗。"
   ],
-  "updated_at": "2026-10-30"
+  "updated_at": "2026-11-02"
 }

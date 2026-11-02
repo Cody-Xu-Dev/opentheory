@@ -23,7 +23,10 @@
     "2aran-interview-analysis-20261025",
     "bili-interview-preview-20261025",
     "xiaoyuzhou-sun-alan-20261030",
-    "btsx-xuke-sun-20261022"
+    "btsx-xuke-sun-20261022",
+    "36kr-yuanchuan-theory-20261030",
+    "pedaily-ng-theory-20261030",
+    "bili-sun-alan-full-20261102"
   ],
   "claims": [
     {
@@ -67,11 +70,25 @@
         "btsx-xuke-sun-20261022"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "张倍嘉将这些话语解读为在不确定生活中寻找可量化反馈，同时用玩梗重写成功的意义；这是评论者的分析，不代表原作者立场变化。",
+      "source_ids": [
+        "36kr-yuanchuan-theory-20261030"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "黄瓜汽水质疑把身体、关系与财富纳入同一套排名的成功学，认为摆脱旧评价也可能转入新的认知和体型竞争；保留为批评版本，不据此断定人物动机。",
+      "source_ids": [
+        "pedaily-ng-theory-20261030"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "补充孙宇晨本人公开原帖与作品来源。",
     "区分原作者自述、人物模仿 Skill、社区评论和后续理论组合。"
   ],
-  "updated_at": "2026-10-31"
+  "updated_at": "2026-11-02"
 }

@@ -9,6 +9,7 @@
 - [大菜理论](../knowledge/dacai.md)
 - [大蛋理论](../knowledge/dadan.md)
 - [大锅理论](../knowledge/daguo.md)
+- [大红果理论](../knowledge/dahongguo.md)
 - [大壶理论](../knowledge/dahu.md)
 - [大溜理论](../knowledge/daliu.md)
 - [大睡理论](../knowledge/dashui-sleep.md)

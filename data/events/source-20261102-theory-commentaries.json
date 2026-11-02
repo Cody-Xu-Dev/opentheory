@@ -1,0 +1,19 @@
+{
+  "id": "source-20261102-theory-commentaries",
+  "date": "2026-11-02",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "dashui",
+    "huangmao",
+    "sunxue",
+    "dashui-sleep"
+  ],
+  "source_ids": [
+    "36kr-yuanchuan-theory-20261030",
+    "pedaily-ng-theory-20261030",
+    "thepaper-health-boundaries-20261030"
+  ],
+  "summary": "补读10月30日三篇文章：可量化生活与成功叙事、男性成功学批评及健康执行边界；旧文新发现，不视为今日发布或人物立场修订。",
+  "run_id": "daily-20261102-093541"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "source-20261102-original-video",
+  "date": "2026-11-02",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "sunxue"
+  ],
+  "source_ids": [
+    "bili-sun-alan-full-20261102"
+  ],
+  "summary": "补充原账号完整访谈视频入口的标题、简介及平台显示日期；未核读完整视频，仅保存元数据。",
+  "run_id": "daily-20261102-093541"
+}

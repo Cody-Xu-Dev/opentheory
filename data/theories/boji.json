@@ -36,7 +36,11 @@
     "36kr-xiaofang-dashui-20261028",
     "bjd-youth-dashui-20261028",
     "xiaoyuzhou-sun-alan-20261030",
-    "btsx-xuke-sun-20261022"
+    "btsx-xuke-sun-20261022",
+    "36kr-yuanchuan-theory-20261030",
+    "pedaily-ng-theory-20261030",
+    "thepaper-health-boundaries-20261030",
+    "bili-sun-alan-full-20261102"
   ],
   "claims": [
     {
@@ -115,11 +119,32 @@
         "btsx-xuke-sun-20261022"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "张倍嘉将这些话语解读为在不确定生活中寻找可量化反馈，同时用玩梗重写成功的意义；这是评论者的分析，不代表原作者立场变化。",
+      "source_ids": [
+        "36kr-yuanchuan-theory-20261030"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "黄瓜汽水质疑把身体、关系与财富纳入同一套排名的成功学，认为摆脱旧评价也可能转入新的认知和体型竞争；保留为批评版本，不据此断定人物动机。",
+      "source_ids": [
+        "pedaily-ng-theory-20261030"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "该报道转述医生对网络生活方式的评论，强调个体差异、循序渐进和可持续，反对固定数字与极端执行；具体研究和健康数字未独立审查。",
+      "source_ids": [
+        "thepaper-health-boundaries-20261030"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-10-31"
+  "updated_at": "2026-11-02"
 }
