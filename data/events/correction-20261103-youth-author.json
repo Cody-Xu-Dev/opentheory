@@ -1,0 +1,15 @@
+{
+  "id": "correction-20261103-youth-author",
+  "date": "2026-11-03",
+  "type": "correction",
+  "theory_ids": [
+    "boji",
+    "dashui"
+  ],
+  "source_ids": [
+    "bjd-youth-dashui-20261028",
+    "bjd-youth-author-20261103"
+  ],
+  "summary": "通过中国青年网同文明确署名，补核已收录中国青年报评论作者为任冠青；以同URL新版保留旧版，未新增重复转载或独立观点。",
+  "run_id": "daily-20261103-095333"
+}

@@ -25,7 +25,8 @@
     "dzwww-qingdao-theories-20261026",
     "btsx-xuke-sun-20261022",
     "36kr-yuanchuan-theory-20261030",
-    "pedaily-ng-theory-20261030"
+    "pedaily-ng-theory-20261030",
+    "lnd-theory-boundaries-20261102"
   ],
   "claims": [
     {
@@ -83,11 +84,18 @@
         "pedaily-ng-theory-20261030"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "高昀澄在辽宁日报评论中区分玩梗带来的参与感与把日常选择道德化产生的评价压力，主张保留自主判断；这是新增评论视角，不代表原作者修订立场。",
+      "source_ids": [
+        "lnd-theory-boundaries-20261102"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "逐一核读笔记引用的原帖和完整直播，核实时间线。",
     "区分黄毛形象与黄毛理论名称，不能由形象先出现推断理论首创。"
   ],
-  "updated_at": "2026-11-02"
+  "updated_at": "2026-11-03"
 }

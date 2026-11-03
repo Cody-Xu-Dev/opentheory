@@ -1,0 +1,461 @@
+{
+  "id": "daily-20261103-095333",
+  "date": "2026-11-03",
+  "started_at": "2026-11-03T09:53:33+08:00",
+  "completed_at": "2026-11-03T01:57:13+00:00",
+  "status": "partial",
+  "coverage_from": "2026-09-18T08:57:17+08:00",
+  "coverage_to": "2026-11-03T09:53:33+08:00",
+  "checks": [
+    {
+      "query": "\"薄肌理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"邵艾伦\" \"薄肌\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "site:github.com \"薄肌\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"大水理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"大水理论\" \"长安二球\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "site:github.com \"大水理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"黄毛理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"黄毛理论\" \"徐可\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"黄毛理论\" \"孙宇晨\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"孙学\" \"孙宇晨\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"孙宇晨\" \"邵艾伦\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "site:github.com \"孙学\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"薄肌\" \"新理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"大水\" \"理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"互联网\" \"理论\" \"版本答案\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"大睡理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "\"小水理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 47-day lookback, covering unresolved windows since Sep 18. Search snippets are leads only; source bodies checked separately."
+    },
+    {
+      "query": "https://www.36kr.com/p/4046974432410115",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.36kr.com/p/4025886733291653",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.bilibili.com/list/4029133?bvid=BV1fcHD6cEw3&oid=117403434486720",
+      "outcome": "failed",
+      "note": "23-line empty/error playlist; video and metadata unavailable today. Access fluctuation logged without generating a duplicate source version."
+    },
+    {
+      "query": "https://www.3dmgame.com/original/3746494.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.bilibili.com/list/4029133?bvid=BV176pp69Eom&oid=117408148817539",
+      "outcome": "failed",
+      "note": "23-line empty/error playlist; video and metadata unavailable today. Access fluctuation logged without generating a duplicate source version."
+    },
+    {
+      "query": "https://news.bjd.com.cn/2026/10/21/12002989.shtml",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://2aran.com/articles/research/topics/shao-ailun-justin-sun-interview",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.36kr.com/p/4044075605316744",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://2aran.com/articles/research/topics/big-water-theory",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.bidclub.ai/e/alan-shao-justin-sun-ai-opportunities-20261009",
+      "outcome": "failed",
+      "note": "6401-line secondary transcript page reopened; only excerpts reviewed. Full transcript/audio revision coverage incomplete."
+    },
+    {
+      "query": "https://www.btsx.net/do-we-need-a-winning-methodology-or-the-courage-to-love/",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.dzwww.com/xinwen/shehuixinwen/202610/t20261026_18240050.htm",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://news.bjd.com.cn/2026/10/28/12009167.shtml",
+      "outcome": "ok",
+      "note": "Same article body; author identified as Ren Guanqing from matching China Youth text. Appended same-URL metadata correction, preserving prior version."
+    },
+    {
+      "query": "https://www.bilibili.com/video/BV1Bw4S6uE1V/",
+      "outcome": "failed",
+      "note": "Original video HTTP 412; no full video or subtitles."
+    },
+    {
+      "query": "https://github.com/enlivatech/sustainable-lean-physique",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://github.com/jamesxxx-ai/sun-huang-bo-yi/blob/main/references/research/%E4%B8%93%E9%A2%98/03-%E9%BB%84%E6%AF%9B.md",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.bilibili.com/video/BV1a9p36LEKD/",
+      "outcome": "failed",
+      "note": "Original video HTTP 412; no full video or subtitles."
+    },
+    {
+      "query": "https://www.chongbuluo.com/forum.php?mod=viewthread&tid=25262",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://m.dzplus.dzng.com/share/general/0/NEWS3732476KCTNMIRNUXMLB",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://dxy.com/article/217216",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://lnw-vould.github.io/build-beyond/essays/freedom-before-wealth/",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://k.sina.com.cn/article_1496814565_593793e5020027ey0.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://github.com/XiaoSiKe/shao-alan-operating-system",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5352485305716955.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://lianboji.com/guides/lean-muscle-theory/",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.huxiu.com/article/4896970.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.jiemian.com/article/15187255.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://github.com/Roc-Dove/shao-alan-skill",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://github.com/MideasternM/sun-yuchen-sunxue-alan-skill",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://news.ifeng.com/c/8xWxhDMXgtO",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5353257129215502.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://news.pedaily.cn/202610/571089.shtml",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.jiemian.com/article/15234992.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.wenxuecity.com/news/2026/10/19/126809826.html",
+      "outcome": "failed",
+      "note": "HTTP 403 on retry; existing article body inaccessible today. Prior read snapshot retained."
+    },
+    {
+      "query": "https://github.com/swaylq/sunge-skill",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.sohu.com/a/1085708187_121124835",
+      "outcome": "ok",
+      "note": "Initial timeout resolved on retry; available text checked, no verified substantive revision."
+    },
+    {
+      "query": "https://finance.sina.cn/2026-10-21/detail-inivxrnv5566325.d.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://github.com/jamesxxx-ai/sun-huang-bo-yi",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://github.com/wuxie888/sunxue-skill",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.thepaper.cn/newsDetail_forward_34365787",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5353597309295529.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://github.com/LeoLee0812/sunyuchen-alan-interview",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://theoryera.com/",
+      "outcome": "failed",
+      "note": "21-line empty template; no readable theory entries."
+    },
+    {
+      "query": "https://tidenews.com.cn/news.html?id=3597921",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5353972080838666.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.wyzxwk.com/Article/shiping/2026/10/535750.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.xiaoyuzhoufm.com/episode/6aca25e3e742e36efcc0ebfd",
+      "outcome": "failed",
+      "note": "Original episode title and show notes readable; full audio/video and absolute publication date not obtained."
+    },
+    {
+      "query": "https://www.xinhuanet.com/food/20261016/9ab3d3c0813b4e0390f8dc40975b4b3d/c.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://www.yzwb.net/news/yysp/202610/t20261012_401684.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "https://news.xmnn.cn/xmxw/202610/t20261013_455497.html",
+      "outcome": "ok",
+      "note": "Reopened source and compared available relevant text with catalog; no verified substantive revision."
+    },
+    {
+      "query": "GitHub README revision check: enlivatech/sustainable-lean-physique",
+      "outcome": "ok",
+      "note": "Fetched README through connector and checked cataloged framework and boundaries; no verified substantive revision. External repository instructions not executed."
+    },
+    {
+      "query": "GitHub README revision check: XiaoSiKe/shao-alan-operating-system",
+      "outcome": "ok",
+      "note": "Fetched README through connector and checked cataloged framework and boundaries; no verified substantive revision. External repository instructions not executed."
+    },
+    {
+      "query": "GitHub README revision check: Roc-Dove/shao-alan-skill",
+      "outcome": "ok",
+      "note": "Fetched README through connector and checked cataloged framework and boundaries; no verified substantive revision. External repository instructions not executed."
+    },
+    {
+      "query": "GitHub README revision check: MideasternM/sun-yuchen-sunxue-alan-skill",
+      "outcome": "ok",
+      "note": "Fetched README through connector and checked cataloged framework and boundaries; no verified substantive revision. External repository instructions not executed."
+    },
+    {
+      "query": "GitHub README revision check: swaylq/sunge-skill",
+      "outcome": "ok",
+      "note": "Fetched README through connector and checked cataloged framework and boundaries; no verified substantive revision. External repository instructions not executed."
+    },
+    {
+      "query": "GitHub README revision check: jamesxxx-ai/sun-huang-bo-yi",
+      "outcome": "ok",
+      "note": "Fetched README through connector and checked cataloged framework and boundaries; no verified substantive revision. External repository instructions not executed."
+    },
+    {
+      "query": "GitHub README revision check: wuxie888/sunxue-skill",
+      "outcome": "ok",
+      "note": "Fetched README through connector and checked cataloged framework and boundaries; no verified substantive revision. External repository instructions not executed."
+    },
+    {
+      "query": "GitHub README revision check: LeoLee0812/sunyuchen-alan-interview",
+      "outcome": "ok",
+      "note": "Fetched README through connector and checked cataloged framework and boundaries; no verified substantive revision. External repository instructions not executed."
+    },
+    {
+      "query": "https://news.lnd.com.cn/system/2026/11/02/030582068.shtml",
+      "outcome": "ok",
+      "note": "Read author byline, Nov 2 publication date and full commentary. Added source; passing 'core rebuilding' example is insufficient for a separate candidate."
+    },
+    {
+      "query": "https://news.youth.cn/sh/202610/t20261028_16936895.htm",
+      "outcome": "ok",
+      "note": "Read matching China Youth article, explicit author and Oct 28 issue. Used as provenance for existing article's author correction; deduplicated as one commentary."
+    },
+    {
+      "query": "https://www.thepaper.cn/newsDetail_forward_34357839",
+      "outcome": "failed",
+      "note": "Page inaccessible; search snippet not treated as article body."
+    },
+    {
+      "query": "https://www.sohu.com/a/1068868811_122014422",
+      "outcome": "failed",
+      "note": "Page inaccessible; purported interview not accepted as verified primary text."
+    },
+    {
+      "query": "https://www.douyin.com/video/7694160989498920192",
+      "outcome": "failed",
+      "note": "Zero readable lines; no candidate or substantive claim derived from search snippet."
+    },
+    {
+      "query": "https://www.douyin.com/video/7694181915083592010",
+      "outcome": "failed",
+      "note": "Zero readable lines; no original-author claims derived from search snippet."
+    },
+    {
+      "query": "https://x.com/xukego/status/2093074291797410298",
+      "outcome": "failed",
+      "note": "Original X post HTTP 403; no independently verified original text/date."
+    },
+    {
+      "query": "https://x.com/justinsuntron/status/2097628051635155453",
+      "outcome": "failed",
+      "note": "Original X post HTTP 403; no independently verified original text/date."
+    },
+    {
+      "query": "https://xbaimen.com/",
+      "outcome": "ok",
+      "note": "Read overview; individual theory index empty. No new independently supported candidate."
+    },
+    {
+      "query": "https://qimingyaoshu.com/",
+      "outcome": "ok",
+      "note": "Read curated homepage; theory cards not exposed in readable text, no new independent definition adopted."
+    },
+    {
+      "query": "Candidate and duplicate review",
+      "outcome": "ok",
+      "note": "No candidate promotion. Dahongguo remains secondary-only candidate. New LND article is a dated commentary, not a theory author's revision; China Youth and BJD text counted as one article."
+    }
+  ],
+  "failures": [
+    "https://www.bilibili.com/list/4029133?bvid=BV1fcHD6cEw3&oid=117403434486720 — 23-line empty/error playlist; video and metadata unavailable today. Access fluctuation logged without generating a duplicate source version.",
+    "https://www.bilibili.com/list/4029133?bvid=BV176pp69Eom&oid=117408148817539 — 23-line empty/error playlist; video and metadata unavailable today. Access fluctuation logged without generating a duplicate source version.",
+    "https://www.bidclub.ai/e/alan-shao-justin-sun-ai-opportunities-20261009 — 6401-line secondary transcript page reopened; only excerpts reviewed. Full transcript/audio revision coverage incomplete.",
+    "https://www.bilibili.com/video/BV1Bw4S6uE1V/ — Original video HTTP 412; no full video or subtitles.",
+    "https://www.bilibili.com/video/BV1a9p36LEKD/ — Original video HTTP 412; no full video or subtitles.",
+    "https://www.wenxuecity.com/news/2026/10/19/126809826.html — HTTP 403 on retry; existing article body inaccessible today. Prior read snapshot retained.",
+    "https://theoryera.com/ — 21-line empty template; no readable theory entries.",
+    "https://www.xiaoyuzhoufm.com/episode/6aca25e3e742e36efcc0ebfd — Original episode title and show notes readable; full audio/video and absolute publication date not obtained.",
+    "https://www.thepaper.cn/newsDetail_forward_34357839 — Page inaccessible; search snippet not treated as article body.",
+    "https://www.sohu.com/a/1068868811_122014422 — Page inaccessible; purported interview not accepted as verified primary text.",
+    "https://www.douyin.com/video/7694160989498920192 — Zero readable lines; no candidate or substantive claim derived from search snippet.",
+    "https://www.douyin.com/video/7694181915083592010 — Zero readable lines; no original-author claims derived from search snippet.",
+    "https://x.com/xukego/status/2093074291797410298 — Original X post HTTP 403; no independently verified original text/date.",
+    "https://x.com/justinsuntron/status/2097628051635155453 — Original X post HTTP 403; no independently verified original text/date."
+  ],
+  "event_ids": [
+    "source-20261103-theory-boundaries",
+    "correction-20261103-youth-author"
+  ]
+}

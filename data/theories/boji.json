@@ -40,7 +40,9 @@
     "36kr-yuanchuan-theory-20261030",
     "pedaily-ng-theory-20261030",
     "thepaper-health-boundaries-20261030",
-    "bili-sun-alan-full-20261102"
+    "bili-sun-alan-full-20261102",
+    "lnd-theory-boundaries-20261102",
+    "bjd-youth-author-20261103"
   ],
   "claims": [
     {
@@ -140,11 +142,18 @@
         "thepaper-health-boundaries-20261030"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "高昀澄在辽宁日报评论中区分玩梗带来的参与感与把日常选择道德化产生的评价压力，主张保留自主判断；这是新增评论视角，不代表原作者修订立场。",
+      "source_ids": [
+        "lnd-theory-boundaries-20261102"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-11-02"
+  "updated_at": "2026-11-03"
 }

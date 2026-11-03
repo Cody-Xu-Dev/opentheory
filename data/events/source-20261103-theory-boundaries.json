@@ -1,0 +1,15 @@
+{
+  "id": "source-20261103-theory-boundaries",
+  "date": "2026-11-03",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "dashui",
+    "huangmao"
+  ],
+  "source_ids": [
+    "lnd-theory-boundaries-20261102"
+  ],
+  "summary": "补录11月2日辽宁日报评论，保留玩梗参与和日常选择道德化之间的张力；昨日文章今日发现，不视为今日发布。",
+  "run_id": "daily-20261103-095333"
+}

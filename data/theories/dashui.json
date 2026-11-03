@@ -36,7 +36,9 @@
     "36kr-xiaofang-dashui-20261028",
     "bjd-youth-dashui-20261028",
     "36kr-yuanchuan-theory-20261030",
-    "thepaper-health-boundaries-20261030"
+    "thepaper-health-boundaries-20261030",
+    "lnd-theory-boundaries-20261102",
+    "bjd-youth-author-20261103"
   ],
   "claims": [
     {
@@ -159,9 +161,9 @@
       "attribution": "secondary_summary"
     },
     {
-      "text": "中国青年报评论的京报网转载将大水解释为以概念命名和幽默表达获得生活主动感，并与纯过日子联系；这是评论观点，与已有变强叙事及批评版本并列保留。",
+      "text": "任冠青发表于中国青年报的评论（京报网转载）将大水解释为以概念命名和幽默表达获得生活主动感，并与纯过日子联系；这是评论观点，与已有变强叙事及批评版本并列保留。",
       "source_ids": [
-        "bjd-youth-dashui-20261028"
+        "bjd-youth-author-20261103"
       ],
       "attribution": "secondary_summary"
     },
@@ -178,6 +180,13 @@
         "thepaper-health-boundaries-20261030"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "高昀澄在辽宁日报评论中区分玩梗带来的参与感与把日常选择道德化产生的评价压力，主张保留自主判断；这是新增评论视角，不代表原作者修订立场。",
+      "source_ids": [
+        "lnd-theory-boundaries-20261102"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
@@ -185,5 +194,5 @@
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
     "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-11-02"
+  "updated_at": "2026-11-03"
 }
