@@ -38,7 +38,9 @@
     "36kr-yuanchuan-theory-20261030",
     "thepaper-health-boundaries-20261030",
     "lnd-theory-boundaries-20261102",
-    "bjd-youth-author-20261103"
+    "bjd-youth-author-20261103",
+    "thepaper-dataq-dashui-20261102",
+    "bjd-xinhua-lifestyle-20261021"
   ],
   "claims": [
     {
@@ -187,6 +189,20 @@
         "lnd-theory-boundaries-20261102"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "DataQ分析文章将大水讨论拆分为多种参与动机，并强调线上热度不等于线下销量；本档案未验证其样本、分类或具体统计比例。",
+      "source_ids": [
+        "thepaper-dataq-dashui-20261102"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "新华社微信公众号综合半月谈的北京号转载，将大水解释为重新衡量真实需求和消费身份，并强调个人判断与生活节奏；这是评论解读。",
+      "source_ids": [
+        "bjd-xinhua-lifestyle-20261021"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
@@ -194,5 +210,5 @@
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
     "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-11-03"
+  "updated_at": "2026-11-04"
 }
