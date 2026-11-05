@@ -1,0 +1,19 @@
+{
+  "id": "source-20261105-archival-commentaries",
+  "date": "2026-11-05",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui",
+    "boji",
+    "huangmao",
+    "dacai",
+    "dadan"
+  ],
+  "source_ids": [
+    "hnrb-dashui-cartoon-20261030",
+    "thepaper-gmw-framing-20261017",
+    "cqnews-ycwb-dashui-20261010"
+  ],
+  "summary": "补录湖南日报图文、熊禹的框架评论和羊城晚报报道转载三份存量来源；均为10月旧文今日发现，无新理论候选或原作者今日修订。",
+  "run_id": "daily-20261105-090240"
+}

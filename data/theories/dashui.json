@@ -40,7 +40,10 @@
     "lnd-theory-boundaries-20261102",
     "bjd-youth-author-20261103",
     "thepaper-dataq-dashui-20261102",
-    "bjd-xinhua-lifestyle-20261021"
+    "bjd-xinhua-lifestyle-20261021",
+    "hnrb-dashui-cartoon-20261030",
+    "thepaper-gmw-framing-20261017",
+    "cqnews-ycwb-dashui-20261010"
   ],
   "claims": [
     {
@@ -203,6 +206,20 @@
         "bjd-xinhua-lifestyle-20261021"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "熊禹将理论命名解释为重塑生活常识的框架，认为身份宣言可以带来参与感，也可能形成新的教条；这是作者的评论视角。",
+      "source_ids": [
+        "thepaper-gmw-framing-20261017"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "该报道转述徐英英对大瓶容器与短时猛灌的区分，反对将瓶子容量等同一次饮水目标；具体医学结论未独立复核。",
+      "source_ids": [
+        "cqnews-ycwb-dashui-20261010"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
@@ -210,5 +227,5 @@
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
     "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-11-04"
+  "updated_at": "2026-11-05"
 }
