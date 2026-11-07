@@ -4,7 +4,7 @@
 
 | 名称 | 状态 | 更新日 |
 | --- | --- | --- |
-| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-05 |
+| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-07 |
 | [不说话理论](../knowledge/bushuohua.md) | candidate | 2026-10-19 |
 | [纯日子理论](../knowledge/chunrizi.md) | candidate | 2026-10-17 |
 | [大健康理论](../knowledge/da-jiankang.md) | candidate | 2026-10-18 |

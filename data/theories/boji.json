@@ -45,7 +45,8 @@
     "bjd-youth-author-20261103",
     "bjd-xinhua-lifestyle-20261021",
     "hnrb-dashui-cartoon-20261030",
-    "thepaper-gmw-framing-20261017"
+    "thepaper-gmw-framing-20261017",
+    "thepaper-boji-training-boundaries-20261105"
   ],
   "claims": [
     {
@@ -152,11 +153,18 @@
         "lnd-theory-boundaries-20261102"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "该报道把薄肌定位为审美概念，讨论急于见效与动作质量的矛盾，并强调训练循序渐进；这是媒体报道视角，伤病案例和具体医学判断未独立核验。",
+      "source_ids": [
+        "thepaper-boji-training-boundaries-20261105"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-11-05"
+  "updated_at": "2026-11-07"
 }
