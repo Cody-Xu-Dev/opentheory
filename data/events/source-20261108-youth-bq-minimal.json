@@ -1,0 +1,15 @@
+{
+  "id": "source-20261108-youth-bq-minimal",
+  "date": "2026-11-08",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "dashui",
+    "dashui-sleep"
+  ],
+  "source_ids": [
+    "youth-bq-minimal-wellness-20261103"
+  ],
+  "summary": "北京青年报记者雷若彤的报道将喝水、睡觉、薄肌并列为低成本日常照顾，讨论省事与掌控感，也提醒不要把生活习惯变成必须达标的考核。",
+  "run_id": "daily-20261108-085733"
+}

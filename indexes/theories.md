@@ -4,7 +4,7 @@
 
 | 名称 | 状态 | 更新日 |
 | --- | --- | --- |
-| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-07 |
+| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-08 |
 | [不说话理论](../knowledge/bushuohua.md) | candidate | 2026-10-19 |
 | [纯日子理论](../knowledge/chunrizi.md) | candidate | 2026-10-17 |
 | [大健康理论](../knowledge/da-jiankang.md) | candidate | 2026-10-18 |
@@ -17,8 +17,8 @@
 | [大红果理论](../knowledge/dahongguo.md) | candidate | 2026-11-02 |
 | [大壶理论](../knowledge/dahu.md) | candidate | 2026-10-27 |
 | [大溜理论](../knowledge/daliu.md) | candidate | 2026-10-27 |
-| [大水理论](../knowledge/dashui.md) | tracked | 2026-11-05 |
-| [大睡理论](../knowledge/dashui-sleep.md) | candidate | 2026-11-02 |
+| [大水理论](../knowledge/dashui.md) | tracked | 2026-11-08 |
+| [大睡理论](../knowledge/dashui-sleep.md) | candidate | 2026-11-08 |
 | [大氧理论](../knowledge/dayang.md) | candidate | 2026-10-28 |
 | [大站理论](../knowledge/dazhan.md) | candidate | 2026-10-28 |
 | [大走理论](../knowledge/dazou.md) | candidate | 2026-10-30 |

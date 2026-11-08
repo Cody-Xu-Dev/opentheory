@@ -43,7 +43,9 @@
     "bjd-xinhua-lifestyle-20261021",
     "hnrb-dashui-cartoon-20261030",
     "thepaper-gmw-framing-20261017",
-    "cqnews-ycwb-dashui-20261010"
+    "cqnews-ycwb-dashui-20261010",
+    "thepaper-wang-individualization-20261106",
+    "youth-bq-minimal-wellness-20261103"
   ],
   "claims": [
     {
@@ -220,6 +222,20 @@
         "cqnews-ycwb-dashui-20261010"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "王苍龙把大水、大睡、大遛放回家庭、工作和公共支持的条件中，认为自我关怀是否带来自主，取决于能否调整要求、协商责任并维持生活；这是评论者解释，不是原推广者修订。",
+      "source_ids": [
+        "thepaper-wang-individualization-20261106"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "雷若彤的报道将大水、大睡和薄肌解释为低成本、省事的生活实践，同时警惕机械打卡与统一考核；文中市场数字和具体健康结论未独立核验。",
+      "source_ids": [
+        "youth-bq-minimal-wellness-20261103"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
@@ -227,5 +243,5 @@
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
     "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-11-05"
+  "updated_at": "2026-11-08"
 }

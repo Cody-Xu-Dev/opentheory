@@ -46,7 +46,9 @@
     "bjd-xinhua-lifestyle-20261021",
     "hnrb-dashui-cartoon-20261030",
     "thepaper-gmw-framing-20261017",
-    "thepaper-boji-training-boundaries-20261105"
+    "thepaper-boji-training-boundaries-20261105",
+    "youth-bq-minimal-wellness-20261103",
+    "thinmuscle-club-parody-theory-20261108"
   ],
   "claims": [
     {
@@ -160,11 +162,25 @@
         "thepaper-boji-training-boundaries-20261105"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "雷若彤的报道将大水、大睡和薄肌解释为低成本、省事的生活实践，同时警惕机械打卡与统一考核；文中市场数字和具体健康结论未独立核验。",
+      "source_ids": [
+        "youth-bq-minimal-wellness-20261103"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "粉丝站以产品发布式文案呈现薄肌等概念，同时明确标注恶搞、无授权及虚构产品；本档案将其作为传播二创记录，不能作为本人声明或训练标准。",
+      "source_ids": [
+        "thinmuscle-club-parody-theory-20261108"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-11-07"
+  "updated_at": "2026-11-08"
 }
