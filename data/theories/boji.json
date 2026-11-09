@@ -48,7 +48,8 @@
     "thepaper-gmw-framing-20261017",
     "thepaper-boji-training-boundaries-20261105",
     "youth-bq-minimal-wellness-20261103",
-    "thinmuscle-club-parody-theory-20261108"
+    "thinmuscle-club-parody-theory-20261108",
+    "sina-jiaxing-small-success-20261105"
   ],
   "claims": [
     {
@@ -176,11 +177,18 @@
         "thinmuscle-club-parody-theory-20261108"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "李咏琪把大水、薄肌、大睡与纯过日子联系，认为部分青年将意义的支点从不可控的大目标移向可感知的小行动；这是署名评论的解释，不能外推为所有参与者动机。",
+      "source_ids": [
+        "sina-jiaxing-small-success-20261105"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-11-08"
+  "updated_at": "2026-11-09"
 }
