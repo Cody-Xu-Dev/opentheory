@@ -49,7 +49,8 @@
     "thepaper-boji-training-boundaries-20261105",
     "youth-bq-minimal-wellness-20261103",
     "thinmuscle-club-parody-theory-20261108",
-    "sina-jiaxing-small-success-20261105"
+    "sina-jiaxing-small-success-20261105",
+    "sina-ziben-boji-anxiety-20261008"
   ],
   "claims": [
     {
@@ -184,11 +185,18 @@
         "sina-jiaxing-small-success-20261105"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "资本大事纪的帖子把薄肌流行解读为将焦虑转成可见行动，同时列出身材标准和潜在商业化的质疑；这是二次观察，不是原作者承诺或已证实的动机。",
+      "source_ids": [
+        "sina-ziben-boji-anxiety-20261008"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-11-09"
+  "updated_at": "2026-11-10"
 }

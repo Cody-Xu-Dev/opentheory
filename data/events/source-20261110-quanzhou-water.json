@@ -1,0 +1,13 @@
+{
+  "id": "source-20261110-quanzhou-water",
+  "date": "2026-11-10",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui"
+  ],
+  "source_ids": [
+    "qzwb-dashui-local-report-20261108"
+  ],
+  "summary": "泉州晚报记者王金植通过街头采访记录大水的省钱、社交参与和不适等不同体验，并转述医生将大瓶容器与一次猛灌区分。",
+  "run_id": "daily-20261110-090356"
+}

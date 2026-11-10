@@ -46,7 +46,8 @@
     "cqnews-ycwb-dashui-20261010",
     "thepaper-wang-individualization-20261106",
     "youth-bq-minimal-wellness-20261103",
-    "sina-jiaxing-small-success-20261105"
+    "sina-jiaxing-small-success-20261105",
+    "qzwb-dashui-local-report-20261108"
   ],
   "claims": [
     {
@@ -244,6 +245,13 @@
         "sina-jiaxing-small-success-20261105"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "王金植的泉州街访记录了参与大水的多种理由与不适反馈，并转述医生反对把容器大小等同科学饮水；局部采访和单店销售说法不能外推为总体趋势。",
+      "source_ids": [
+        "qzwb-dashui-local-report-20261108"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
@@ -251,5 +259,5 @@
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
     "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-11-09"
+  "updated_at": "2026-11-10"
 }
