@@ -50,7 +50,9 @@
     "youth-bq-minimal-wellness-20261103",
     "thinmuscle-club-parody-theory-20261108",
     "sina-jiaxing-small-success-20261105",
-    "sina-ziben-boji-anxiety-20261008"
+    "sina-ziben-boji-anxiety-20261008",
+    "xzhishu-alan-challenge-20261111",
+    "xzhishu-alan-blueprint-20261111"
   ],
   "claims": [
     {
@@ -192,11 +194,19 @@
         "sina-ziben-boji-anxiety-20261008"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "X指数榜将奖金挑战和生活蓝图清单归于Alan账号；目前仅确认第三方页面如此呈现，不能认定本人新增、修订或兑现承诺，亦不据此采纳健康或营养主张。",
+      "source_ids": [
+        "xzhishu-alan-challenge-20261111",
+        "xzhishu-alan-blueprint-20261111"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-11-10"
+  "updated_at": "2026-11-11"
 }

@@ -1,0 +1,13 @@
+{
+  "id": "source-20261111-drinking-scenarios",
+  "date": "2026-11-11",
+  "type": "source_added",
+  "theory_ids": [
+    "dashui"
+  ],
+  "source_ids": [
+    "jiemian-foodaily-scenarios-20261022"
+  ],
+  "summary": "补入Yomi Xue关于全天饮用场景与包装适配的商业分析；不将大瓶化直接视为增长原因。",
+  "run_id": "daily-20261111-110459"
+}

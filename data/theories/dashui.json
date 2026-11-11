@@ -47,7 +47,9 @@
     "thepaper-wang-individualization-20261106",
     "youth-bq-minimal-wellness-20261103",
     "sina-jiaxing-small-success-20261105",
-    "qzwb-dashui-local-report-20261108"
+    "qzwb-dashui-local-report-20261108",
+    "jiemian-foodaily-scenarios-20261022",
+    "foodaily-drink-definition-20261022"
   ],
   "claims": [
     {
@@ -252,6 +254,20 @@
         "qzwb-dashui-local-report-20261108"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "Yomi Xue从全天补给、减少选择与包装适配解释大水的商业意义，并强调大容量和短期热度不保证持续增长；这是行业分析，不是市场因果验证。",
+      "source_ids": [
+        "jiemian-foodaily-scenarios-20261022"
+      ],
+      "attribution": "secondary_summary"
+    },
+    {
+      "text": "六便士认为大水话语可体现消费者拒绝被饮品身份标签定义，而非全面抛弃甜饮；这是评论者对消费心态的解释。",
+      "source_ids": [
+        "foodaily-drink-definition-20261022"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
@@ -259,5 +275,5 @@
     "核实不同平台所谓大水是否指同一话语，避免误收货币政策等同名内容。",
     "追溯采访中孙浩然自述的9月30日视频，并核对与已有长安二球线索的身份对应；未核实前不定案。"
   ],
-  "updated_at": "2026-11-10"
+  "updated_at": "2026-11-11"
 }
