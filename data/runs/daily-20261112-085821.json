@@ -1,0 +1,564 @@
+{
+  "id": "daily-20261112-085821",
+  "date": "2026-11-12",
+  "started_at": "2026-11-12T08:58:21+08:00",
+  "completed_at": "2026-11-12T01:00:29+00:00",
+  "status": "partial",
+  "coverage_from": "2026-09-18T08:57:17+08:00",
+  "coverage_to": "2026-11-12T08:58:21+08:00",
+  "checks": [
+    {
+      "query": "\"薄肌理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"邵艾伦\" \"薄肌\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "site:github.com \"薄肌\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"大水理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"大水理论\" \"长安二球\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "site:github.com \"大水理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"黄毛理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"黄毛理论\" \"徐可\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"黄毛理论\" \"孙宇晨\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"孙学\" \"孙宇晨\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"孙宇晨\" \"邵艾伦\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "site:github.com \"孙学\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"薄肌\" \"新理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"大水\" \"理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"互联网\" \"理论\" \"版本答案\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"大睡理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "\"小水理论\"",
+      "outcome": "ok",
+      "note": "Executed configured query with 56-day lookback including unresolved Sep 18 onward. Search snippets remain leads only."
+    },
+    {
+      "query": "https://www.36kr.com/p/4044075605316744",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.3dmgame.com/original/3746494.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.bilibili.com/list/4029133?bvid=BV176pp69Eom&oid=117408148817539",
+      "outcome": "failed",
+      "note": "Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version."
+    },
+    {
+      "query": "https://news.bjd.com.cn/2026/10/21/12002989.shtml",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.36kr.com/p/4046974432410115",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://2aran.com/articles/research/topics/big-water-theory",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.bidclub.ai/e/alan-shao-justin-sun-ai-opportunities-20261009",
+      "outcome": "failed",
+      "note": "6401-line transcript excerpts reviewed; full transcript/audio revision coverage incomplete."
+    },
+    {
+      "query": "https://peking.bjd.com.cn/content/s6ad81bf4e4b039a8e2f295e3.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.bilibili.com/video/BV1a9p36LEKD/",
+      "outcome": "failed",
+      "note": "Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version."
+    },
+    {
+      "query": "https://dxy.com/article/217216",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.cqnews.net/web/content_1558508522178428928.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.bilibili.com/video/BV1Bw4S6uE1V/",
+      "outcome": "failed",
+      "note": "Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version."
+    },
+    {
+      "query": "https://2aran.com/articles/research/topics/shao-ailun-justin-sun-interview",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.bilibili.com/list/4029133?bvid=BV1fcHD6cEw3&oid=117403434486720",
+      "outcome": "failed",
+      "note": "Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version."
+    },
+    {
+      "query": "https://news.bjd.com.cn/2026/10/28/12009167.shtml",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.36kr.com/p/4025886733291653",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://m.dzplus.dzng.com/share/general/0/NEWS3732476KCTNMIRNUXMLB",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.chongbuluo.com/forum.php?mod=viewthread&tid=25262",
+      "outcome": "failed",
+      "note": "Body fetch failed; prior snapshot retained, no inference of no updates."
+    },
+    {
+      "query": "https://www.dzwww.com/xinwen/shehuixinwen/202610/t20261026_18240050.htm",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.huxiu.com/article/4896970.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.btsx.net/do-we-need-a-winning-methodology-or-the-courage-to-love/",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://news.ifeng.com/c/8xWxhDMXgtO",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://epaper.voc.com.cn/hnrb/html/2026-10/30/content_1806038.htm?div=-1",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://lnw-vould.github.io/build-beyond/essays/freedom-before-wealth/",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://github.com/MideasternM/sun-yuchen-sunxue-alan-skill",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://github.com/jamesxxx-ai/sun-huang-bo-yi/blob/main/references/research/%E4%B8%93%E9%A2%98/03-%E9%BB%84%E6%AF%9B.md",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.jiemian.com/article/15221901.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.jiemian.com/article/15187255.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://news.lnd.com.cn/system/2026/11/02/030582068.shtml",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://lianboji.com/guides/lean-muscle-theory/",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.foodaily.com/articles/42471",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.jiemian.com/article/15234992.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://github.com/enlivatech/sustainable-lean-physique",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5353257129215502.html",
+      "outcome": "failed",
+      "note": "Body fetch failed; prior snapshot retained, no inference of no updates."
+    },
+    {
+      "query": "https://www.qzwb.com/gb/content/2026-11/08/content_9261045.htm",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5353597309295529.html",
+      "outcome": "failed",
+      "note": "Body fetch failed; prior snapshot retained, no inference of no updates."
+    },
+    {
+      "query": "https://news.pedaily.cn/202610/571089.shtml",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5353972080838666.html",
+      "outcome": "failed",
+      "note": "Body fetch failed; prior snapshot retained, no inference of no updates."
+    },
+    {
+      "query": "https://k.sina.com.cn/article_1496814565_593793e5020027ey0.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5352485305716955.html",
+      "outcome": "failed",
+      "note": "Body fetch failed; prior snapshot retained, no inference of no updates."
+    },
+    {
+      "query": "https://github.com/Roc-Dove/shao-alan-skill",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://github.com/LeoLee0812/sunyuchen-alan-interview",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://github.com/XiaoSiKe/shao-alan-operating-system",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.sina.cn/news/detail/5351780632495049.html",
+      "outcome": "failed",
+      "note": "Body fetch failed; prior snapshot retained, no inference of no updates."
+    },
+    {
+      "query": "https://finance.sina.cn/2026-11-05/detail-inixrunh9574108.d.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.thepaper.cn/newsDetail_forward_34357839",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://finance.sina.cn/2026-10-21/detail-inivxrnv5566325.d.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://thinmuscle.club/theory/",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://github.com/swaylq/sunge-skill",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://github.com/jamesxxx-ai/sun-huang-bo-yi",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://m.thepaper.cn/newsDetail_forward_34350586",
+      "outcome": "failed",
+      "note": "Body fetch failed; prior snapshot retained, no inference of no updates."
+    },
+    {
+      "query": "https://www.sohu.com/a/1085708187_121124835",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.thepaper.cn/newsDetail_forward_34365787",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.thepaper.cn/newsDetail_forward_34272092",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://github.com/wuxie888/sunxue-skill",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://theoryera.com/",
+      "outcome": "failed",
+      "note": "Template only, theory entries unreadable."
+    },
+    {
+      "query": "https://www.thepaper.cn/newsDetail_forward_34411755",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://news.xmnn.cn/xmxw/202610/t20261013_455497.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://xzhishu.com/tweets/3f9625fa-3dcb-4775-90ef-aacb5b54370f",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.xiaoyuzhoufm.com/episode/6aca25e3e742e36efcc0ebfd",
+      "outcome": "failed",
+      "note": "Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version."
+    },
+    {
+      "query": "https://www.wyzxwk.com/Article/shiping/2026/10/535750.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.yzwb.net/news/yysp/202610/t20261012_401684.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://tidenews.com.cn/news.html?id=3597921",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://www.wenxuecity.com/news/2026/10/19/126809826.html",
+      "outcome": "failed",
+      "note": "Body fetch failed; prior snapshot retained, no inference of no updates."
+    },
+    {
+      "query": "https://www.xinhuanet.com/food/20261016/9ab3d3c0813b4e0390f8dc40975b4b3d/c.html",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://qnzs.youth.cn/tsxq/202611/t20261103_16946572.htm",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "https://xzhishu.com/tweets/5a956283-fd61-4dab-98ef-77142e517848",
+      "outcome": "ok",
+      "note": "Reopened and screened relevant available passages against catalog. No substantive revision verified; not an exhaustive external-page audit."
+    },
+    {
+      "query": "GitHub README: jamesxxx-ai/sun-huang-bo-yi",
+      "outcome": "ok",
+      "note": "Fetched and screened versions/framework/boundaries; same cataloged framework, external instructions not executed."
+    },
+    {
+      "query": "GitHub README: enlivatech/sustainable-lean-physique",
+      "outcome": "ok",
+      "note": "Fetched and screened versions/framework/boundaries; same cataloged framework, external instructions not executed."
+    },
+    {
+      "query": "GitHub README: LeoLee0812/sunyuchen-alan-interview",
+      "outcome": "ok",
+      "note": "Fetched and screened versions/framework/boundaries; same cataloged framework, external instructions not executed."
+    },
+    {
+      "query": "GitHub README: swaylq/sunge-skill",
+      "outcome": "ok",
+      "note": "Fetched and screened versions/framework/boundaries; same cataloged framework, external instructions not executed."
+    },
+    {
+      "query": "GitHub README: MideasternM/sun-yuchen-sunxue-alan-skill",
+      "outcome": "ok",
+      "note": "Fetched and screened versions/framework/boundaries; same cataloged framework, external instructions not executed."
+    },
+    {
+      "query": "GitHub README: wuxie888/sunxue-skill",
+      "outcome": "ok",
+      "note": "Fetched and screened versions/framework/boundaries; same cataloged framework, external instructions not executed."
+    },
+    {
+      "query": "GitHub README: XiaoSiKe/shao-alan-operating-system",
+      "outcome": "ok",
+      "note": "Fetched and screened versions/framework/boundaries; same cataloged framework, external instructions not executed."
+    },
+    {
+      "query": "GitHub README: Roc-Dove/shao-alan-skill",
+      "outcome": "ok",
+      "note": "Fetched and screened versions/framework/boundaries; same cataloged framework, external instructions not executed."
+    },
+    {
+      "query": "https://x.com/justinsuntron/status/2097628051635155453",
+      "outcome": "failed",
+      "note": "Original body/alternate route unavailable; no snippet-derived changes or candidates."
+    },
+    {
+      "query": "https://x.com/AlanShao111/status/2117940671621288310",
+      "outcome": "failed",
+      "note": "Original body/alternate route unavailable; no snippet-derived changes or candidates."
+    },
+    {
+      "query": "https://x.com/AlanShao111/status/2118669473943069175",
+      "outcome": "failed",
+      "note": "Original body/alternate route unavailable; no snippet-derived changes or candidates."
+    },
+    {
+      "query": "https://www.douyin.com/video/7694160989498920192",
+      "outcome": "failed",
+      "note": "Original body/alternate route unavailable; no snippet-derived changes or candidates."
+    },
+    {
+      "query": "https://x.com/xukego/status/2093074291797410298",
+      "outcome": "failed",
+      "note": "Original body/alternate route unavailable; no snippet-derived changes or candidates."
+    },
+    {
+      "query": "https://opentape.live/",
+      "outcome": "ok",
+      "note": "Inspected new search lead. Opentape is a token-recommendation dashboard with a same-named token, not a theory definition; excluded. No financial claims adopted."
+    },
+    {
+      "query": "https://www.thepaper.cn/newsDetail_forward_34350586?commTag=true",
+      "outcome": "failed",
+      "note": "Original body/alternate route unavailable; no snippet-derived changes or candidates."
+    },
+    {
+      "query": "https://sina.cn/news/detail/5351780632495049.html",
+      "outcome": "failed",
+      "note": "Bounded alternate-host retry still failed; access change logged without duplicate version."
+    },
+    {
+      "query": "https://sina.cn/news/detail/5353597309295529.html",
+      "outcome": "ok",
+      "note": "Alternate host recovered main post; related recommendations excluded; no substantive revision verified."
+    },
+    {
+      "query": "https://sina.cn/news/detail/5353972080838666.html",
+      "outcome": "failed",
+      "note": "Bounded alternate-host retry still failed; access change logged without duplicate version."
+    },
+    {
+      "query": "https://sina.cn/news/detail/5352485305716955.html",
+      "outcome": "failed",
+      "note": "Bounded alternate-host retry still failed; access change logged without duplicate version."
+    },
+    {
+      "query": "https://sina.cn/news/detail/5353257129215502.html",
+      "outcome": "failed",
+      "note": "Alternate host redirected to antispam/JavaScript shell; main post not readable."
+    },
+    {
+      "query": "Duplicate and candidate review",
+      "outcome": "ok",
+      "note": "No newly verified substantive source, revision, candidate or promotion. Known X index pages retain same displayed text, original posts still unverified. Token names are not theory evidence. Existing cross-posts/transcript mirrors not counted as independent evidence. Failed source windows remain incomplete."
+    }
+  ],
+  "failures": [
+    "https://www.bilibili.com/list/4029133?bvid=BV176pp69Eom&oid=117408148817539 — Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version.",
+    "https://www.bidclub.ai/e/alan-shao-justin-sun-ai-opportunities-20261009 — 6401-line transcript excerpts reviewed; full transcript/audio revision coverage incomplete.",
+    "https://www.bilibili.com/video/BV1a9p36LEKD/ — Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version.",
+    "https://www.bilibili.com/video/BV1Bw4S6uE1V/ — Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version.",
+    "https://www.bilibili.com/list/4029133?bvid=BV1fcHD6cEw3&oid=117403434486720 — Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version.",
+    "https://www.chongbuluo.com/forum.php?mod=viewthread&tid=25262 — Body fetch failed; prior snapshot retained, no inference of no updates.",
+    "https://www.sina.cn/news/detail/5353257129215502.html — Body fetch failed; prior snapshot retained, no inference of no updates.",
+    "https://www.sina.cn/news/detail/5353597309295529.html — Body fetch failed; prior snapshot retained, no inference of no updates.",
+    "https://www.sina.cn/news/detail/5353972080838666.html — Body fetch failed; prior snapshot retained, no inference of no updates.",
+    "https://www.sina.cn/news/detail/5352485305716955.html — Body fetch failed; prior snapshot retained, no inference of no updates.",
+    "https://www.sina.cn/news/detail/5351780632495049.html — Body fetch failed; prior snapshot retained, no inference of no updates.",
+    "https://m.thepaper.cn/newsDetail_forward_34350586 — Body fetch failed; prior snapshot retained, no inference of no updates.",
+    "https://theoryera.com/ — Template only, theory entries unreadable.",
+    "https://www.xiaoyuzhoufm.com/episode/6aca25e3e742e36efcc0ebfd — Metadata/show notes at most; full original video/audio/subtitles unavailable. Preview access fluctuates; no new source version.",
+    "https://www.wenxuecity.com/news/2026/10/19/126809826.html — Body fetch failed; prior snapshot retained, no inference of no updates.",
+    "https://x.com/justinsuntron/status/2097628051635155453 — Original body/alternate route unavailable; no snippet-derived changes or candidates.",
+    "https://x.com/AlanShao111/status/2117940671621288310 — Original body/alternate route unavailable; no snippet-derived changes or candidates.",
+    "https://x.com/AlanShao111/status/2118669473943069175 — Original body/alternate route unavailable; no snippet-derived changes or candidates.",
+    "https://www.douyin.com/video/7694160989498920192 — Original body/alternate route unavailable; no snippet-derived changes or candidates.",
+    "https://x.com/xukego/status/2093074291797410298 — Original body/alternate route unavailable; no snippet-derived changes or candidates.",
+    "https://www.thepaper.cn/newsDetail_forward_34350586?commTag=true — Original body/alternate route unavailable; no snippet-derived changes or candidates.",
+    "https://sina.cn/news/detail/5351780632495049.html — Bounded alternate-host retry still failed; access change logged without duplicate version.",
+    "https://sina.cn/news/detail/5353972080838666.html — Bounded alternate-host retry still failed; access change logged without duplicate version.",
+    "https://sina.cn/news/detail/5352485305716955.html — Bounded alternate-host retry still failed; access change logged without duplicate version.",
+    "https://sina.cn/news/detail/5353257129215502.html — Alternate host redirected to antispam/JavaScript shell; main post not readable."
+  ],
+  "event_ids": []
+}
