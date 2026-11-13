@@ -1,0 +1,15 @@
+{
+  "id": "source-20261113-book-promotion",
+  "date": "2026-11-13",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "dashui",
+    "dashui-sleep"
+  ],
+  "source_ids": [
+    "rednet-book-promotion-theories-20261026"
+  ],
+  "summary": "补入10月26日荐书材料：生活理论话语被用于引入饮食书推荐；仅记录出版推广中的使用，不采纳健康功效或背书。",
+  "run_id": "daily-20261113-090048"
+}

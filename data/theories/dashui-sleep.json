@@ -21,7 +21,8 @@
     "thepaper-health-boundaries-20261030",
     "thepaper-wang-individualization-20261106",
     "youth-bq-minimal-wellness-20261103",
-    "sina-jiaxing-small-success-20261105"
+    "sina-jiaxing-small-success-20261105",
+    "rednet-book-promotion-theories-20261026"
   ],
   "claims": [
     {
@@ -66,11 +67,18 @@
         "sina-jiaxing-small-success-20261105"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "岳麓书会转载的荐书文章以低成本掌控感解释薄肌、大水、大睡，再引入饮食书推荐，显示这些名称也进入出版推广文案；书籍功效与推广背书未独立核验。",
+      "source_ids": [
+        "rednet-book-promotion-theories-20261026"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读原作者的定义和发布时间。",
     "确认是独立话语、已有主题别名还是短期玩梗。"
   ],
-  "updated_at": "2026-11-09"
+  "updated_at": "2026-11-13"
 }

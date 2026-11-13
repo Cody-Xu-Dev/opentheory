@@ -52,7 +52,8 @@
     "sina-jiaxing-small-success-20261105",
     "sina-ziben-boji-anxiety-20261008",
     "xzhishu-alan-challenge-20261111",
-    "xzhishu-alan-blueprint-20261111"
+    "xzhishu-alan-blueprint-20261111",
+    "rednet-book-promotion-theories-20261026"
   ],
   "claims": [
     {
@@ -202,11 +203,18 @@
         "xzhishu-alan-blueprint-20261111"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "岳麓书会转载的荐书文章以低成本掌控感解释薄肌、大水、大睡，再引入饮食书推荐，显示这些名称也进入出版推广文案；书籍功效与推广背书未独立核验。",
+      "source_ids": [
+        "rednet-book-promotion-theories-20261026"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-11-11"
+  "updated_at": "2026-11-13"
 }
