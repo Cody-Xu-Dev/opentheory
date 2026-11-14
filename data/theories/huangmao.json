@@ -27,7 +27,8 @@
     "36kr-yuanchuan-theory-20261030",
     "pedaily-ng-theory-20261030",
     "lnd-theory-boundaries-20261102",
-    "thepaper-gmw-framing-20261017"
+    "thepaper-gmw-framing-20261017",
+    "newrank-podcast-ranking-20261112"
   ],
   "claims": [
     {
@@ -92,11 +93,18 @@
         "lnd-theory-boundaries-20261102"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "新榜将孙学、薄肌、黄毛的组合框架及视频切片、文字整理作为访谈传播案例；这是媒体观察，不能据标题认定新理论首创或据榜单外推全网影响力。",
+      "source_ids": [
+        "newrank-podcast-ranking-20261112"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "逐一核读笔记引用的原帖和完整直播，核实时间线。",
     "区分黄毛形象与黄毛理论名称，不能由形象先出现推断理论首创。"
   ],
-  "updated_at": "2026-11-05"
+  "updated_at": "2026-11-14"
 }

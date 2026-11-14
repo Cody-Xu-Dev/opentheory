@@ -53,7 +53,8 @@
     "sina-ziben-boji-anxiety-20261008",
     "xzhishu-alan-challenge-20261111",
     "xzhishu-alan-blueprint-20261111",
-    "rednet-book-promotion-theories-20261026"
+    "rednet-book-promotion-theories-20261026",
+    "newrank-podcast-ranking-20261112"
   ],
   "claims": [
     {
@@ -210,11 +211,18 @@
         "rednet-book-promotion-theories-20261026"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "新榜将孙学、薄肌、黄毛的组合框架及视频切片、文字整理作为访谈传播案例；这是媒体观察，不能据标题认定新理论首创或据榜单外推全网影响力。",
+      "source_ids": [
+        "newrank-podcast-ranking-20261112"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "核读邵艾伦原始视频和后续更新，建立可靠发布时间。",
     "区分原始身材话语、俱乐部规则与二次作者的能力框架。"
   ],
-  "updated_at": "2026-11-13"
+  "updated_at": "2026-11-14"
 }

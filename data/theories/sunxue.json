@@ -26,7 +26,8 @@
     "btsx-xuke-sun-20261022",
     "36kr-yuanchuan-theory-20261030",
     "pedaily-ng-theory-20261030",
-    "bili-sun-alan-full-20261102"
+    "bili-sun-alan-full-20261102",
+    "newrank-podcast-ranking-20261112"
   ],
   "claims": [
     {
@@ -84,11 +85,18 @@
         "pedaily-ng-theory-20261030"
       ],
       "attribution": "secondary_summary"
+    },
+    {
+      "text": "新榜将孙学、薄肌、黄毛的组合框架及视频切片、文字整理作为访谈传播案例；这是媒体观察，不能据标题认定新理论首创或据榜单外推全网影响力。",
+      "source_ids": [
+        "newrank-podcast-ranking-20261112"
+      ],
+      "attribution": "secondary_summary"
     }
   ],
   "open_questions": [
     "补充孙宇晨本人公开原帖与作品来源。",
     "区分原作者自述、人物模仿 Skill、社区评论和后续理论组合。"
   ],
-  "updated_at": "2026-11-02"
+  "updated_at": "2026-11-14"
 }

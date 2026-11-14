@@ -1,0 +1,15 @@
+{
+  "id": "source-20261114-newrank-podcast",
+  "date": "2026-11-14",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "sunxue",
+    "huangmao"
+  ],
+  "source_ids": [
+    "newrank-podcast-ranking-20261112"
+  ],
+  "summary": "补入11月12日新榜对访谈组合框架和二创传播的观察；榜单及播放统计仅保留出处与限制。",
+  "run_id": "daily-20261114-090028"
+}
