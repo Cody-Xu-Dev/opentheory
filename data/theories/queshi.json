@@ -1,0 +1,26 @@
+{
+  "id": "queshi",
+  "name": "确实理论",
+  "aliases": [
+    "确实主义"
+  ],
+  "status": "candidate",
+  "summary": "先表达认同、减少无谓争辩和自证的说法；边界与原始语境待核对。",
+  "source_ids": [
+    "cn-theories-queshi-20261115"
+  ],
+  "claims": [
+    {
+      "text": "二次档案条目将此名称解释为：先表达认同、减少无谓争辩和自证的说法；边界与原始语境待核对。",
+      "source_ids": [
+        "cn-theories-queshi-20261115"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找原作者完整正文，核对首创者和日期。",
+    "核对与近似既有话语的身份及边界，补充独立证据后再考虑持续跟踪。"
+  ],
+  "updated_at": "2026-11-15"
+}

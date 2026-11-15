@@ -1,0 +1,24 @@
+{
+  "id": "jitui-fan",
+  "name": "鸡腿饭理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "用鸡腿、米饭、蔬菜组成便宜且够用一餐的说法；不代表完整营养标准。",
+  "source_ids": [
+    "sina-zhitingyu-roundup-20261014"
+  ],
+  "claims": [
+    {
+      "text": "栀听煜的盘点帖将此名称解释为：用鸡腿、米饭、蔬菜组成便宜且够用一餐的说法；不代表完整营养标准。",
+      "source_ids": [
+        "sina-zhitingyu-roundup-20261014"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找原作者完整正文，核对首创者和日期。",
+    "核对与近似既有话语的身份及边界，补充独立证据后再考虑持续跟踪。"
+  ],
+  "updated_at": "2026-11-15"
+}

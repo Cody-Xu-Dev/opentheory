@@ -1,0 +1,19 @@
+{
+  "id": "candidate-20261115-roundup",
+  "date": "2026-11-15",
+  "type": "candidate_found",
+  "theory_ids": [
+    "caijiao",
+    "jitui-fan",
+    "npc",
+    "haoshi",
+    "dajieguo",
+    "banben-daan",
+    "da-ai"
+  ],
+  "source_ids": [
+    "sina-zhitingyu-roundup-20261014"
+  ],
+  "summary": "依据10月14日盘点帖补入彩椒、鸡腿饭、NPC、好事、大结果、版本答案、大AI七个候选；仅为今日发现的旧材料，不认定首创或效果。",
+  "run_id": "daily-20261115-090239"
+}

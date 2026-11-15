@@ -1,0 +1,14 @@
+{
+  "id": "cn-theories-index-20261115",
+  "url": "https://github.com/grokkkkkk/cn-theories",
+  "title": "中文互联网理论演变观察（xx-theories）",
+  "author": "grokkkkkk",
+  "kind": "secondary",
+  "published_at": null,
+  "discovered_at": "2026-11-15",
+  "checked_at": "2026-11-15T01:04:34+00:00",
+  "verification": "read",
+  "summary": "该仓库按代际整理网络理论名称、摘要、争议与来源链接，包含既有薄肌、黄毛、大水等主题，也提供候选线索。",
+  "limitation": "已核读README与结构化索引；未验证其全部出处、首创日期、提出者归属及活跃状态。首次走红日期不是仓库发布日期，故published_at=null。其内容为二次整理，不能替代原文。",
+  "supersedes": null
+}

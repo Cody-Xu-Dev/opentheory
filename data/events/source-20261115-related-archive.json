@@ -1,0 +1,15 @@
+{
+  "id": "source-20261115-related-archive",
+  "date": "2026-11-15",
+  "type": "source_added",
+  "theory_ids": [
+    "boji",
+    "dashui",
+    "huangmao"
+  ],
+  "source_ids": [
+    "cn-theories-index-20261115"
+  ],
+  "summary": "发现相关开源档案cn-theories，仅记录其目录与资料入口，未采纳其首创与时间线结论。",
+  "run_id": "daily-20261115-090239"
+}

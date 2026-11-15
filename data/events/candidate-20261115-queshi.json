@@ -1,0 +1,13 @@
+{
+  "id": "candidate-20261115-queshi",
+  "date": "2026-11-15",
+  "type": "candidate_found",
+  "theory_ids": [
+    "queshi"
+  ],
+  "source_ids": [
+    "cn-theories-queshi-20261115"
+  ],
+  "summary": "补入确实理论候选，保留敷衍与必要争辩的边界；原X正文未核实，不确认首创日期或本人认可。",
+  "run_id": "daily-20261115-090239"
+}

@@ -4,9 +4,12 @@
 
 | 名称 | 状态 | 更新日 |
 | --- | --- | --- |
-| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-14 |
+| [版本答案理论](../knowledge/banben-daan.md) | candidate | 2026-11-15 |
+| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-15 |
 | [不说话理论](../knowledge/bushuohua.md) | candidate | 2026-10-19 |
+| [彩椒理论](../knowledge/caijiao.md) | candidate | 2026-11-15 |
 | [纯日子理论](../knowledge/chunrizi.md) | candidate | 2026-11-09 |
+| [大AI理论](../knowledge/da-ai.md) | candidate | 2026-11-15 |
 | [大健康理论](../knowledge/da-jiankang.md) | candidate | 2026-10-18 |
 | [大包理论](../knowledge/dabao.md) | candidate | 2026-10-27 |
 | [大杯理论](../knowledge/dabei.md) | candidate | 2026-10-27 |
@@ -16,16 +19,21 @@
 | [大锅理论](../knowledge/daguo.md) | candidate | 2026-10-17 |
 | [大红果理论](../knowledge/dahongguo.md) | candidate | 2026-11-02 |
 | [大壶理论](../knowledge/dahu.md) | candidate | 2026-10-27 |
+| [大结果理论](../knowledge/dajieguo.md) | candidate | 2026-11-15 |
 | [大溜理论](../knowledge/daliu.md) | candidate | 2026-10-27 |
-| [大水理论](../knowledge/dashui.md) | tracked | 2026-11-13 |
+| [大水理论](../knowledge/dashui.md) | tracked | 2026-11-15 |
 | [大睡理论](../knowledge/dashui-sleep.md) | candidate | 2026-11-13 |
 | [大氧理论](../knowledge/dayang.md) | candidate | 2026-10-28 |
 | [大站理论](../knowledge/dazhan.md) | candidate | 2026-10-28 |
 | [大走理论](../knowledge/dazou.md) | candidate | 2026-10-30 |
 | [定投理论](../knowledge/dingtou.md) | candidate | 2026-10-18 |
-| [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-11-14 |
+| [好事理论](../knowledge/haoshi.md) | candidate | 2026-11-15 |
+| [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-11-15 |
+| [鸡腿饭理论](../knowledge/jitui-fan.md) | candidate | 2026-11-15 |
 | [拒绝学生思维理论](../knowledge/jujue-xuesheng-siwei.md) | candidate | 2026-10-19 |
 | [抗炎理论](../knowledge/kangyan.md) | candidate | 2026-10-18 |
+| [NPC理论](../knowledge/npc.md) | candidate | 2026-11-15 |
+| [确实理论](../knowledge/queshi.md) | candidate | 2026-11-15 |
 | [耍起理论](../knowledge/shuaqi.md) | candidate | 2026-10-27 |
 | [孙学](../knowledge/sunxue.md) | tracked | 2026-11-14 |
 | [提肛理论](../knowledge/tigang.md) | candidate | 2026-10-27 |

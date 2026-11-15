@@ -1,0 +1,24 @@
+{
+  "id": "caijiao",
+  "name": "彩椒理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "将彩椒作为固定蔬菜的简便饮食说法；营养功效未验证。",
+  "source_ids": [
+    "sina-zhitingyu-roundup-20261014"
+  ],
+  "claims": [
+    {
+      "text": "栀听煜的盘点帖将此名称解释为：将彩椒作为固定蔬菜的简便饮食说法；营养功效未验证。",
+      "source_ids": [
+        "sina-zhitingyu-roundup-20261014"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找原作者完整正文，核对首创者和日期。",
+    "核对与近似既有话语的身份及边界，补充独立证据后再考虑持续跟踪。"
+  ],
+  "updated_at": "2026-11-15"
+}

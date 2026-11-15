@@ -1,0 +1,24 @@
+{
+  "id": "npc",
+  "name": "NPC理论",
+  "aliases": [],
+  "status": "candidate",
+  "summary": "以NPC为隐喻，反对机械重复他人安排、强调主动选择生活的说法。",
+  "source_ids": [
+    "sina-zhitingyu-roundup-20261014"
+  ],
+  "claims": [
+    {
+      "text": "栀听煜的盘点帖将此名称解释为：以NPC为隐喻，反对机械重复他人安排、强调主动选择生活的说法。",
+      "source_ids": [
+        "sina-zhitingyu-roundup-20261014"
+      ],
+      "attribution": "secondary_summary"
+    }
+  ],
+  "open_questions": [
+    "寻找原作者完整正文，核对首创者和日期。",
+    "核对与近似既有话语的身份及边界，补充独立证据后再考虑持续跟踪。"
+  ],
+  "updated_at": "2026-11-15"
+}
