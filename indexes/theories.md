@@ -5,7 +5,7 @@
 | 名称 | 状态 | 更新日 |
 | --- | --- | --- |
 | [版本答案理论](../knowledge/banben-daan.md) | candidate | 2026-11-15 |
-| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-15 |
+| [薄肌理论](../knowledge/boji.md) | tracked | 2026-11-17 |
 | [不说话理论](../knowledge/bushuohua.md) | candidate | 2026-10-19 |
 | [彩椒理论](../knowledge/caijiao.md) | candidate | 2026-11-15 |
 | [纯日子理论](../knowledge/chunrizi.md) | candidate | 2026-11-09 |
@@ -28,14 +28,14 @@
 | [大走理论](../knowledge/dazou.md) | candidate | 2026-10-30 |
 | [定投理论](../knowledge/dingtou.md) | candidate | 2026-10-18 |
 | [好事理论](../knowledge/haoshi.md) | candidate | 2026-11-15 |
-| [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-11-15 |
+| [黄毛理论](../knowledge/huangmao.md) | tracked | 2026-11-17 |
 | [鸡腿饭理论](../knowledge/jitui-fan.md) | candidate | 2026-11-15 |
 | [拒绝学生思维理论](../knowledge/jujue-xuesheng-siwei.md) | candidate | 2026-10-19 |
 | [抗炎理论](../knowledge/kangyan.md) | candidate | 2026-10-18 |
 | [NPC理论](../knowledge/npc.md) | candidate | 2026-11-15 |
 | [确实理论](../knowledge/queshi.md) | candidate | 2026-11-15 |
 | [耍起理论](../knowledge/shuaqi.md) | candidate | 2026-10-27 |
-| [孙学](../knowledge/sunxue.md) | tracked | 2026-11-14 |
+| [孙学](../knowledge/sunxue.md) | tracked | 2026-11-17 |
 | [提肛理论](../knowledge/tigang.md) | candidate | 2026-10-27 |
 | [小水理论](../knowledge/xiaoshui.md) | candidate | 2026-10-18 |
 | [氧气理论](../knowledge/yangqi.md) | candidate | 2026-10-17 |
